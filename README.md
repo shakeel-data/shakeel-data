@@ -15,12 +15,11 @@
 ---
 
 ## 🧰 Tech Stack
-
-**Languages & Tools:**  
-•	Programming Language: Python - Pandas, NumPy, Seaborn, Scikit-learn
-•	Databases: Microsoft SQL Server, MySQL, PostgreSQL
-•	Data Visualization & Analysis: Microsoft Power BI, Tableau, Advanced Excel
-•	Tools & Environments: Jupyter Notebook, Google Colab, Visual Studio Code, Spyder
+ 
+- **Programming Language:** Python - Pandas, NumPy, Seaborn, Scikit-learn
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL
+- **Data Visualization and Analysis:** Microsoft Power BI, Tableau, Advanced Excel
+- **Tools & Environments:** Jupyter Notebook, Google Colab, Visual Studio Code, Spyder
 
 ---
 
