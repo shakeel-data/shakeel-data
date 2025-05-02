@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Shakeel Ahamed]
+# 👋 Hi, I'm Shakeel Ahamed
 
-🎓 Data Scientist | 🧠 Machine Learning | 📊 Excel & Power BI Enthusiast  
-📍 Based in [Chennai] | 💼 Open to Entry-Level Opportunities  
+🎓 Data Scientist | 🧠 Machine Learning Engineer | 📊 Excel & Power BI Enthusiast  
+📍 Based in Chennai | 💼 Open to Entry-Level Opportunities  
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🎯 Passionate about uncovering insights from data  
 - 🛠️ Skilled in **SQL**, **Python**, **Microsoft Excel**, **Microsoft Power BI**,**Tableau** , **Machine Learning** and **Deep Learning**
-- 📚 Completed Professional certifications in IBM Machine Learning, Meta Database Engineer and Microsoft Power BI Data Analysts 
+- 📚 Completed Professional certifications in **IBM Machine Learning, Meta Database Engineer and Microsoft Power BI Data Analyst**
 - 🤖 Currently building end-to-end data projects to strengthen my portfolio  
 
 ---
@@ -17,7 +17,10 @@
 ## 🧰 Tech Stack
 
 **Languages & Tools:**  
-`Python (pandas, scikit-learn, matplotlib)` | `SQL (PostgreSQL, SQL Server)` | `Excel` | `Power BI` | `DAX` | `XGBoost` | `Visual Studio Code`
+•	Programming Language: Python - Pandas, NumPy, Seaborn, Scikit-learn
+•	Databases: Microsoft SQL Server, MySQL, PostgreSQL
+•	Data Visualization & Analysis: Microsoft Power BI, Tableau, Advanced Excel
+•	Tools & Environments: Jupyter Notebook, Google Colab, Visual Studio Code, Spyder
 
 ---
 
