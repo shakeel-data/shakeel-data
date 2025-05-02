@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shakeel Ahamed
 
 🎓 Data Scientist | 🧠 Machine Learning Engineer 
-📍 Based in Chennai | 💼 Open to Entry-Level Opportunities  
+📍 Chennai | 💼 Open to Entry-Level Opportunities  
 
 ---
 
