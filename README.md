@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakeel Ahamed
 
-🎓 Data Scientist | 🧠 Machine Learning Engineer | 📊 Excel & Power BI Enthusiast  
+🎓 Data Scientist | 🧠 Machine Learning Engineer 
 📍 Based in Chennai | 💼 Open to Entry-Level Opportunities  
 
 ---
@@ -26,13 +26,23 @@
 ## 📊 Portfolio Projects
 
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-  `Kaggle, Google Colab, Python, Scikit-learn, XGBoost`
+  `Kaggle`, `Google Colab`, `Python`, `RandomForestClassifier`, `XGBoost`
   
 - 🛍️ [walmart Sales Analysis)](https://github.com/shakeel-data/walmart-analysis-sql-python)  
-  ```Kaggle```, ```PostgreSQL```, ```Visual Studio Code```, ```Python```
+  `Kaggle`, `PostgreSQL`, `Visual Studio Code`, `Python`
 
 - 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
-  `Microsoft SQL Server, Visual Studio Code, Python, RandomForestClassifier, Microsoft Power BI Desktop, DAX Measures`
+  `Microsoft SQL Server`, `Visual Studio Code`, `Python`, `RandomForestClassifier`, `Microsoft Power BI Desktop`, `DAX Measures`
+
+---
+
+## 💼 Professional Experience
+### AR Process Executive Sep 2024 – Present
+**Omega Healthcare, Chennai** 
+•	Collaborated with onsite teams and US counterparts to ensure compliance with SLAs, resulting in an improvement in processing efficiency.
+•	Conducted outbound calls for benefits & eligibility verification, buy-and-bill, and authorization, improving accuracy in responses by 10%.
+•	Coordinated inter-team communication to streamline project delivery, reducing delays by 15%.
+•	Streamlined internal processes, addressing inefficiencies that led to a 20% increase in team productivity.
 
 ---
 
