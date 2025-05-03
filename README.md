@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🎯 Passionate about uncovering insights from data  
-- 🛠️ Skilled in **SQL**, **Python**, **Microsoft Excel**, **Microsoft Power BI**,**Tableau** , **Machine Learning** and **Deep Learning**
+- 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**,**Tableau** , **Machine Learning** and **Deep Learning**
 - 📚 Completed Professional certifications in:
    - **IBM Machine Learning**
    - **Meta Database Engineer**
@@ -22,15 +22,15 @@
 - **Programming Language & Libraries:** Python - Pandas, NumPy, Seaborn, Scikit-learn, Plotly
 - **Machine Learning:** Random Forest, K-Means Clustering, XGBoost, LightGBM
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
-- **Data Visualization and Analysis:** Microsoft Power BI, Tableau, Advanced Excel
-- **Tools and Environments:** Jupyter Notebook, Google Colab, VSCode, Spyder
+- **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
+- **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder
 
 ---
 
 ## 📊 Portfolio Projects
 
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-  `Kaggle`, `Google Colab`, `Python`, `RandomForestClassifier`, `XGBoost`
+  `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
 
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
   `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans Clustering`
