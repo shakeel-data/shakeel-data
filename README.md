@@ -73,9 +73,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
-[![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
-
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/learner/shakeel-data)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
+- [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
+- [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/learner/shakeel-data)
 
 ---
