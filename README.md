@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakeel Ahamed
 
-🎓 Data Scientist | 🧠 Machine Learning Engineer 
+🎓 **Data Scientist** | 🧠 **Machine Learning Engineer** 
 📍 Chennai | 💼 Open to Entry-Level Opportunities  
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🎯 Passionate about uncovering insights from data  
-- 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**,**Tableau** , **Machine Learning** and **Deep Learning**
+- 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**, **Tableau**, **Machine Learning** and **Deep Learning**
 - 📚 Completed Professional certifications in:
    - **IBM Machine Learning**
    - **Meta Database Engineer**
@@ -19,8 +19,8 @@
 
 ## 🧰 Tech Stack
  
-- **Programming Language & Libraries:** Python - Pandas, NumPy, Seaborn, Scikit-learn, Plotly
-- **Machine Learning:** Random Forest, K-Means Clustering, XGBoost, LightGBM
+- **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn`, `Scikit-learn`, `Plotly`
+- **Machine Learning:** `Random Forest`, `KMeans Clustering`, `XGBoost`, `LightGBM`
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
 - **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
 - **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder
