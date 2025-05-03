@@ -55,7 +55,6 @@
 ## 📈 GitHub Stats
 
 ![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical)
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ---
 
@@ -67,7 +66,7 @@
 
 ## 🔥 GitHub Streak Stats
 
-![Shakeel's GitHub Streak](https://streak-stats.demolab.com/?user=shakeel-data&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shakeel-data&theme=tokyonight)
 
 ---
 
