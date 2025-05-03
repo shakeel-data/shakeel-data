@@ -19,10 +19,11 @@
 
 ## 🧰 Tech Stack
  
-- **Programming Language:** Python - Pandas, NumPy, Seaborn, Scikit-learn
+- **Programming Language & Libraries:** Python - Pandas, NumPy, Seaborn, Scikit-learn, Plotly
+- **Machine Learning:** Random Forest, K-Means Clustering, XGBoost, LightGBM
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
 - **Data Visualization and Analysis:** Microsoft Power BI, Tableau, Advanced Excel
-- **Tools & Environments:** Jupyter Notebook, Google Colab, Visual Studio Code, Spyder
+- **Tools and Environments:** Jupyter Notebook, Google Colab, VSCode, Spyder
 
 ---
 
@@ -31,7 +32,7 @@
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
   `Kaggle`, `Google Colab`, `Python`, `RandomForestClassifier`, `XGBoost`
 
-- 👤 [Customer Segmentation](https://github.com/shakeel-data/customer-segmentation-clustering)
+- 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
   `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans Clustering`
   
 - 🛍️ [walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
