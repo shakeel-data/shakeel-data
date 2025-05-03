@@ -64,11 +64,6 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shakeel-data&theme=tokyonight)
-
----
 
 ## 🏆Trophy Stats
 
