@@ -9,7 +9,10 @@
 
 - 🎯 Passionate about uncovering insights from data  
 - 🛠️ Skilled in **SQL**, **Python**, **Microsoft Excel**, **Microsoft Power BI**,**Tableau** , **Machine Learning** and **Deep Learning**
-- 📚 Completed Professional certifications in **IBM Machine Learning, Meta Database Engineer and Microsoft Power BI Data Analyst**
+- 📚 Completed Professional certifications in:
+   - **IBM Machine Learning**
+   - **Meta Database Engineer** and
+   - **Microsoft Power BI Data Analyst**
 - 🤖 Currently building end-to-end data projects to strengthen my portfolio  
 
 ---
@@ -17,7 +20,7 @@
 ## 🧰 Tech Stack
  
 - **Programming Language:** Python - Pandas, NumPy, Seaborn, Scikit-learn
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
 - **Data Visualization and Analysis:** Microsoft Power BI, Tableau, Advanced Excel
 - **Tools & Environments:** Jupyter Notebook, Google Colab, Visual Studio Code, Spyder
 
@@ -27,12 +30,15 @@
 
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
   `Kaggle`, `Google Colab`, `Python`, `RandomForestClassifier`, `XGBoost`
+
+- 👤 [Customer Segmentation](https://github.com/shakeel-data/customer-segmentation-clustering)
+  `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans Clustering`
   
 - 🛍️ [walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
   `Kaggle`, `PostgreSQL`, `Visual Studio Code`, `Python`
 
 - 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
-  `Microsoft SQL Server`, `Visual Studio Code`, `Python`, `RandomForestClassifier`, `Microsoft Power BI Desktop`, `DAX Measures`
+  `Microsoft SQL Server`, `Visual Studio Code`, `Python`, `RandomForestClassifier`, `Microsoft Power BI Desktop`
 
 ---
 
@@ -48,7 +54,26 @@
 
 ## 📈 GitHub Stats
 
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=default)
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical)
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=tokyonight&hide=prs,issues)
+
+---
+
+## 🌐 Top Languages Card
+
+![Shakeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak Stats
+
+![Shakeel's GitHub Streak](https://streak-stats.demolab.com/?user=shakeel-data&theme=tokyonight)
+
+---
+
+## 🏆Trophy Stats
+
+![Shakeel's Trophies](https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=monokai)
 
 ---
 
