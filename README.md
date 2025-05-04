@@ -21,6 +21,7 @@
  
 - **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn`, `Scikit-learn`, `Plotly`
 - **Machine Learning:** `Random Forest`, `KMeans Clustering`, `XGBoost`, `LightGBM`
+- **Deep Learning:** ``Pytorch``
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
 - **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
 - **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder
