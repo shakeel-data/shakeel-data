@@ -30,15 +30,16 @@
 
 ## 📊 Portfolio Projects
 
-- 🎗 [Breast cancer prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
-   `kaggle`, `spyder ide`, `python`, `neural network`, `pytorch`
+- 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
+   `Kaggle`, `Spyder ide`, `Python`, `Neural network`, `Pytorch`
+  
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
   `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
 
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
   `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans Clustering`
   
-- 🛍️ [walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
+- 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
   `Kaggle`, `PostgreSQL`, `Visual Studio Code`, `Python`
 
 - 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
