@@ -21,7 +21,7 @@
  
 - **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn`, `Scikit-learn`, `Plotly`
 - **Machine Learning:** `Random Forest`, `KMeans`, `XGBoost`, `LightGBM`
-- **Deep Learning:** ``Pytorch``
+- **Deep Learning:** ``PyTorch``
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
 - **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
 - **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder Ide
@@ -31,7 +31,7 @@
 ## 📊 Top Portfolio Projects
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
-   `Kaggle`, `Spyder Ide`, `Python`, `Neural network`, `Pytorch`
+   `Kaggle`, `Spyder Ide`, `Python`, `Neural network`, `PyTorch`
   
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
   `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
