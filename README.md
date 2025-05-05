@@ -20,11 +20,11 @@
 ## 🧰 Tech Stack
  
 - **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn`, `Scikit-learn`, `Plotly`
-- **Machine Learning:** `Random Forest`, `KMeans Clustering`, `XGBoost`, `LightGBM`
+- **Machine Learning:** `Random Forest`, `KMeans`, `XGBoost`, `LightGBM`
 - **Deep Learning:** ``Pytorch``
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, NoSQL
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
 - **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
-- **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder
+- **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder Ide
 
 ---
 
