@@ -37,7 +37,7 @@
   `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
 
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
-  `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans Clustering`
+  `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans`
   
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
   `Kaggle`, `PostgreSQL`, `Visual Studio Code`, `Python`
