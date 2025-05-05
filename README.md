@@ -31,7 +31,7 @@
 ## 📊 Top Portfolio Projects
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
-   `Kaggle`, `Spyder ide`, `Python`, `Neural network`, `Pytorch`
+   `Kaggle`, `Spyder Ide`, `Python`, `Neural network`, `Pytorch`
   
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
   `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
