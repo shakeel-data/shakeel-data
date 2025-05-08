@@ -1,6 +1,6 @@
 #  <h1 align="center">Hi there I'm Shakeel Ahamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
-## <n align="centre">📍 **Chennai** 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
+### <n align="centre">📍 **Chennai** 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
 
 ---
 ## 📫 Let's Connect
@@ -85,7 +85,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br />
 
