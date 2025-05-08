@@ -17,13 +17,40 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## 🤖 Machine Learning and Data Science:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
----
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-003366?style=for-the-badge)
+![KMeans](https://img.shields.io/badge/KMeans-003366?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC2D00?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge)
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 Top Portfolio Projects
 
