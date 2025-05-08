@@ -87,7 +87,13 @@
 
 ## 📈 GitHub Stats
 
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel-data&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shakeel-data&theme=github-compact&hide_border=true" />
 
 ---
 
