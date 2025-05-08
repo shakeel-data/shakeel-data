@@ -31,19 +31,19 @@
 ## 📊 Top Portfolio Projects
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
-   `Kaggle`, `Spyder Ide`, `Python`, `Neural network`, `PyTorch`
+      `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
   
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-  `Kaggle`, `Google Colab`, `Python`, `LightGBM`, `XGBoost`
+      `Scikit-learn`, `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
 
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
-  `kaggle`, `Jupyter Notebbok`, `Python`, `KMeans`
+     `Scikit-learn`, `KMeans`, `Jupyter Notebbok`, `Kaggle`
   
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
-  `Kaggle`, `PostgreSQL`, `Visual Studio Code`, `Python`
+     `Scikit-learn`, `PostgreSQL`, `Visual Studio Code`, `Kaggle`
 
 - 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
-  `Microsoft SQL Server`, `Visual Studio Code`, `Python`, `RandomForestClassifier`, `Microsoft Power BI Desktop`
+     `Microsoft SQL Server`, `Scikit-learn`, `Random Forest`, `Microsoft Power BI Desktop`
 
 ---
 
