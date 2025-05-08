@@ -17,15 +17,12 @@
 
 ---
 
-## 🧰 Tech Stack
- 
-- **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn` , `Plotly`, `Scikit-learn`
-- **Machine Learning:** `Random Forest`, `KMeans`, `XGBoost`, `LightGBM`
-- **Deep Learning:** ``PyTorch``
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
-- **Data Visualization & Analysis:** Microsoft Power BI, Tableau, Advanced Excel
-- **Tools & Environments:** Jupyter Notebook, Google Colab, VS Code, Spyder Ide
-
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ---
 
 ## 📊 Top Portfolio Projects
