@@ -4,12 +4,19 @@
 📍 Chennai | 💼 Open to Entry-Level Opportunities  
 
 ---
+## 📫 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
+- [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
+- [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/learner/shakeel-data)
+
+---
 
 ## 🚀 About Me
 
 - 🎯 Passionate about uncovering insights from data  
 - 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**, **Tableau**, **Machine Learning** and **Deep Learning**
-- 📚 Completed Professional certifications in ![Cousera](https://camo.githubusercontent.com/ddb3a25ac50200ae3d840266048839d0d28953b920411fa491cde25f8fc8c5b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f7572736572612d2532333030353644322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f757273657261266c6f676f436f6c6f723d7768697465):
+- 📚 Completed Professional certifications in :
    - **IBM Machine Learning**
    - **Meta Database Engineer**
    - **Microsoft Power BI Data Analyst**
@@ -42,10 +49,10 @@
 ## 🛠️ Develpment Tools & Environments
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Kaggle](https://camo.githubusercontent.com/09863c0d1b37b39630da97cebd29b81129de2e4fb0ad06b48187df332ca35c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)
 
 ## 📊 Top Portfolio Projects
@@ -96,10 +103,3 @@
 
 ---
 
-## 📫 Let's Connect
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
-- [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
-- [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/learner/shakeel-data)
-
----
