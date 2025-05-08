@@ -40,7 +40,7 @@
      `Scikit-learn`, `KMeans`, `Jupyter Notebbok`, `Kaggle`
   
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
-     `Scikit-learn`, `PostgreSQL`, `Visual Studio Code`, `Kaggle`
+     `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`, `Kaggle`
 
 - 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
      `Microsoft SQL Server`, `Scikit-learn`, `Random Forest`, `Microsoft Power BI Desktop`
