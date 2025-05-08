@@ -3,7 +3,7 @@
 ### <n align="centre">📍 **Chennai** 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
 
 ---
-## 📫 Let's Connect
+## 📫 Let's Connect:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
 - [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
@@ -42,10 +42,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D00?style=for-the-badge&logo=boost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white)
 
-## 🧬 Deep Learning
+## 🧬 Deep Learning:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 🛠️ Develpment Tools & Environments
+## 🛠️ Develpment Tools & Environments:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -54,7 +54,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Kaggle](https://camo.githubusercontent.com/09863c0d1b37b39630da97cebd29b81129de2e4fb0ad06b48187df332ca35c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)
 
-## 📊 Top Portfolio Projects
+## 📊 Top Portfolio Projects:
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
       `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
