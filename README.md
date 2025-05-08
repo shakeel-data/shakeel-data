@@ -17,7 +17,7 @@
    - **IBM Machine Learning** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8)
    - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
    - **Microsoft Power BI Data Analyst** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ)
-- 🤖 Currently building end-to-end data projects to strengthen my portfolio  
+- 🤖 Currently building end-to-end data projects to strengthen my portfolio.
 
 ---
 
