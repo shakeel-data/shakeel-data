@@ -2,7 +2,6 @@
 
 ### <n align="centre">📍 **Chennai** 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
 
----
 ## 📫 Let's Connect:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
@@ -52,6 +51,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Kaggle](https://camo.githubusercontent.com/09863c0d1b37b39630da97cebd29b81129de2e4fb0ad06b48187df332ca35c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)
+
+---
 
 ## 📊 Top Portfolio Projects:
 
