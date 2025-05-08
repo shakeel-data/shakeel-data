@@ -17,9 +17,9 @@
 - 🎯 Passionate about uncovering insights from data  
 - 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**, **Tableau**, **Machine Learning** and **Deep Learning**
 - 📚 Completed Professional certifications in :
-   - **IBM Machine Learning** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)]
-   - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)]
-   - **Microsoft Power BI Data Analyst** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)]
+   - **IBM Machine Learning** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)
+   - **Meta Database Engineer** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)
+   - **Microsoft Power BI Data Analyst** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)
 - 🤖 Currently building end-to-end data projects to strengthen my portfolio  
 
 ---
