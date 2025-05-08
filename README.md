@@ -19,7 +19,7 @@
 
 ## 🧰 Tech Stack
  
-- **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn` , `Plotly` `Scikit-learn`
+- **Programming Language & Libraries:** Python - `Pandas`, `NumPy`, `Seaborn` , `Plotly`, `Scikit-learn`
 - **Machine Learning:** `Random Forest`, `KMeans`, `XGBoost`, `LightGBM`
 - **Deep Learning:** ``PyTorch``
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
