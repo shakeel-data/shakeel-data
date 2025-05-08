@@ -13,8 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about uncovering insights from data  
-- 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**, **Tableau**, **Machine Learning** and **Deep Learning**
+- Entry level Data Scientist and Machine Learning Engineer with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
 - 📚 Completed Professional certifications in :
    - **IBM Machine Learning** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)
    - **Meta Database Engineer** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)
