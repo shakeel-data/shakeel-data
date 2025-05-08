@@ -9,7 +9,7 @@
 
 - 🎯 Passionate about uncovering insights from data  
 - 🛠️ Skilled in **SQL**, **NoSQL**, **Python**, **Microsoft Power BI**, **Tableau**, **Machine Learning** and **Deep Learning**
-- 📚 Completed Professional certifications in:
+- 📚 Completed Professional certifications in ![Cousera](https://camo.githubusercontent.com/ddb3a25ac50200ae3d840266048839d0d28953b920411fa491cde25f8fc8c5b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f7572736572612d2532333030353644322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f757273657261266c6f676f436f6c6f723d7768697465):
    - **IBM Machine Learning**
    - **Meta Database Engineer**
    - **Microsoft Power BI Data Analyst**
@@ -22,7 +22,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://camo.githubusercontent.com/544022edf8369d944e68802fc043b0268484709e334d23db2882590aeae296cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![MySQL](https://camo.githubusercontent.com/38ce4d8be94d27406f2989b56efec7cdc5e2c2d6509600746fede440245c5afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MongoDB](https://camo.githubusercontent.com/ec9b2bbaccf6915a29050ce24c10cd9b481b0c41b0bf5194add3e69f49a9be3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
 
 ## 🤖 Machine Learning and Data Science:
@@ -46,6 +46,7 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Kaggle](https://camo.githubusercontent.com/09863c0d1b37b39630da97cebd29b81129de2e4fb0ad06b48187df332ca35c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)
 
 ## 📊 Top Portfolio Projects
 
