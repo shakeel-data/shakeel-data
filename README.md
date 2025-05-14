@@ -87,7 +87,7 @@
 ## 🎓 EDUCATION
 - Master of Business Administration (MBA), Specialization: Business Data Analytics
 - University of Madras (Institute of Distance Education), Chennai
-~ _Expected Graduation: June 2026_
+- _Expected Graduation: June 2026_
 
 ---
 
