@@ -2,7 +2,7 @@
 
 ### <n align="centre">📍 **Chennai** | 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
 
-## 📫 Let's Connect:
+## 📫 LETS CONNECT
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
 - [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 TOP PORTFOLIO PROJECTS:
+## 📊 TOP PORTFOLIO PROJECTS
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
       `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
