@@ -75,7 +75,7 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 ### Omega Healthcare, Chennai
-*AR Process Executive Sep 2024 – Present*
+*AR Process Executive | Sep 2024 – Present*
 
 - Collaborated with onsite teams and US counterparts to ensure compliance with **SLAs**, resulting in an improvement in processing efficiency.
 - Conducted outbound calls for benefits & eligibility verification, buy-and-bill, and authorization, improving accuracy in responses by **10%.**
