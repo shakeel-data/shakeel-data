@@ -2,7 +2,7 @@
 
 ### <n align="centre">📍 **Chennai** | 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
 ---
-## 📫 LETS CONNECT
+## 📫 LET'S CONNECT
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shakeel-data)  
 - [![Email](https://img.shields.io/badge/Gmail-grey?logo=gmail)](mailto:shakeelahamed6618@gmail.com)
