@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 PROFILE SUMMARY
 
 - Entry level Data Scientist and Machine Learning Engineer with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
 - 📚 Completed Professional certifications in :
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Top Portfolio Projects:
+## 📊 TOP PORTFOLIO PROJECTS:
 
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
       `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
@@ -73,9 +73,10 @@
 
 ---
 
-## 💼 Professional Experience
-### AR Process Executive Sep 2024 – Present
+## 💼 PROFESSIONAL EXPERIENCE
 ### Omega Healthcare, Chennai
+*AR Process Executive Sep 2024 – Present*
+
 - Collaborated with onsite teams and US counterparts to ensure compliance with **SLAs**, resulting in an improvement in processing efficiency.
 - Conducted outbound calls for benefits & eligibility verification, buy-and-bill, and authorization, improving accuracy in responses by **10%.**
 - Coordinated inter-team communication to streamline project delivery, reducing delays by **15%.**
@@ -83,7 +84,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GITHUB STATS
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -91,14 +92,14 @@
 
 ---
 
-## 🌐 Top Languages Card
+## 🌐 TOP LANGUAGE CARD
 
 ![Shakeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=tokyonight)
 
 ---
 
 
-## 🏆Trophy Stats
+## 🏆TROPHY STATS
 
 ![Shakeel's Trophies](https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=monokai)
 
