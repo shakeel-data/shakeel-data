@@ -60,10 +60,9 @@
       `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
   
 - 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-      `Scikit-learn`, `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
-
+      `Scikit-learn`, `XGBoost`, `LightGBM`, `Google Colab`
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
-     `Scikit-learn`, `KMeans`, `Jupyter Notebbok`, `Kaggle`
+     `Scikit-learn`, `K-Means`, `PCA`, `Jupyter Notebbok`
   
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
      `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`, `Kaggle`
