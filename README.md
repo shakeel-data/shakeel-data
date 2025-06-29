@@ -1,6 +1,6 @@
 #  <h1 align="center">Hi there I'm Shakeel Ahamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
-### <n align="centre">📍 **Chennai** | 🎓 **Data Scientist** | 🧠 **Machine Learning Engineer**  | 💼 **Open to Entry-Level Opportunities**</n>
+### <n align="centre">📍 **Chennai** | 🎓 **Data Analyst** | 🧠 **Data Scientist**  | 💼 **Open to Entry-Level Opportunities**</n>
 ---
 ## 📫 LET'S CONNECT
 
@@ -12,7 +12,7 @@
 
 ## 🚀 PROFILE SUMMARY
 
-- Entry level Data Scientist and Machine Learning Engineer with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
+- Entry level Data analys and Data Scientist with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
 - 📚 Completed Professional certifications in :
    - **IBM Machine Learning** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8)
    - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
@@ -74,7 +74,7 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 ### Omega Healthcare, Chennai
-*AR Process Executive | Sep 2024 – Present*
+*AR Process Executive | Sep 2024 – Mar 2025*
 
 - Collaborated with onsite teams and US counterparts to ensure compliance with **SLAs**, resulting in an improvement in processing efficiency.
 - Conducted outbound calls for benefits & eligibility verification, buy-and-bill, and authorization, improving accuracy in responses by **10%.**
