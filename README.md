@@ -1,7 +1,7 @@
 #  <h1 align="center">Hi there I'm Shakeel Ahamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
-### <n align="centre">📍 **Chennai, India** |  💻 **Software Engineer**  | 🎓 **Data Analyst** |  ⚙️ **Data Engineer**  | 🧠 **Data Scientist**  
-#### <h2 align="center">💼 **Open to Entry-Level Opportunities** </h2>
+## <n align="centre">📍 **Chennai, India** |  💻 **Software Engineer**  | 🎓 **Data Analyst** |  ⚙️ **Data Engineer**  | 🧠 **Data Scientist**  
+### <h2 align="center">💼 **Open to Entry-Level Opportunities** </h2>
 ---
 ## 📫 LET'S CONNECT
 
@@ -74,7 +74,7 @@
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
-### Omega Healthcare, Chennai
+### Omega Healthcare | Chennai, India
 *AR Process Executive | Sep 2024 – Mar 2025*
 
 - Collaborated with onsite teams and US counterparts to ensure compliance with **SLAs**, resulting in an improvement in processing efficiency.
@@ -86,7 +86,7 @@
 
 ## 🎓 EDUCATION
 **Master of Business Administration (MBA), Specialization: Business Data Analytics**
-University of Madras (Institute of Distance Education) | Chennai, India | _Expected Graduation: June 2026_
+  University of Madras (Institute of Distance Education) | Chennai, India | _Expected Graduation: June 2026_
 
 ---
 
