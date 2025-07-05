@@ -79,7 +79,8 @@
 
 - Ensured data integrity by verifying insurance eligibility and benefits via CareCentral, reducing data verification errors by **15%**. 
 - Streamlined sensitive data handling pipelines for prior authorizations in coordination with payers, reducing processing delays by 20%.
-- Structured and validated Excel-based data logs to enhance reporting performance, resulting in 25% higher accuracy and ensuring compliance with process SLAs. 
+- Structured and validated Excel-based data logs to enhance reporting performance, resulting in 25% higher accuracy and ensuring compliance with process SLAs.
+- Practiced secure handling of patient and payer data in line with **HIPAA** principles using tools like CareCentral, Excel, and Microsoft Teams. 
 ---
 
 ## 🎓 EDUCATION
