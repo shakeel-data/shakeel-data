@@ -77,11 +77,9 @@
 ### Omega Healthcare | Chennai, India
 **AR Process Executive** | *Sep 2024 – Mar 2025*
 
-- Collaborated with onsite teams and US counterparts to ensure compliance with **SLAs**, resulting in an improvement in processing efficiency.
-- Conducted outbound calls for benefits & eligibility verification, buy-and-bill, and authorization, improving accuracy in responses by **10%.**
-- Coordinated inter-team communication to streamline project delivery, reducing delays by **15%.**
-- Streamlined internal processes, addressing inefficiencies that led to a **20%** increase in team productivity.
-
+- Ensured data integrity by verifying insurance eligibility and benefits via CareCentral, reducing data verification errors by **15%**. 
+- Streamlined sensitive data handling pipelines for prior authorizations in coordination with payers, reducing processing delays by 20%.
+- Structured and validated Excel-based data logs to enhance reporting performance, resulting in 25% higher accuracy and ensuring compliance with process SLAs. 
 ---
 
 ## 🎓 EDUCATION
