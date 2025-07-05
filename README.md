@@ -1,7 +1,6 @@
 #  <h1 align="center">Hi there I'm Shakeel Ahamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
 ## <n align="centre">📍 **Chennai, India** |  💻 **Software Engineer**  |  ⚙️ **Data Engineer**  | 🧠 **Data Scientist**  
-### <h2 align="center">💼 **Open to Entry-Level Opportunities** </h2>
 ---
 ## 📫 LET'S CONNECT
 
