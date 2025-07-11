@@ -59,6 +59,8 @@
 
 ## 📊 TOP PORTFOLIO PROJECTS
 
+- 🛢️ [AWS data pipeline using Kafka](https://github.com/shakeel-data/AWS-kafka-streaming-pipeline-rds-s3)
+      `amazon-RDS`
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
       `Scikit-learn`, `Neural network`, `PyTorch`, `spyder Ide`, `Kaggle`
   
