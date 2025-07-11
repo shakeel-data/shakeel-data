@@ -59,7 +59,7 @@
 
 ## 📊 TOP PORTFOLIO PROJECTS
 
-- 🛢️ [AWS data pipeline using Kafka](https://github.com/shakeel-data/AWS-kafka-streaming-pipeline-rds-s3)
+- 🛢️ [AWS Data Streaming pipeline](https://github.com/shakeel-data/AWS-kafka-streaming-pipeline-rds-s3)
       `Amazon-RDS`, `Amazon-S3`, `Amazon-msk`, `Apache-kafka`, `Debezium`, `EC2`, `IAM`, `VPC`, `DBeaver`
   
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
