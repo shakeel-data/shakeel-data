@@ -31,6 +31,7 @@
 
 ### Cloud:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-by-AWS-white.png" height="28"/>
 
 ### 🤖 Machine Learning:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
