@@ -65,7 +65,7 @@
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
       `Neural network`, `PyTorch`, `Spyder Ide`
   
-- 🔐 [Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
+- 🔐 [Credit Card Fraud Detection System](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
       `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
   
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
@@ -74,7 +74,7 @@
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
      `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`
 
-- 📉 [Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
+- 📉 [Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
      `Microsoft SQL Server`, `Random Forest`, `Microsoft Power BI Desktop`
 
 ---
