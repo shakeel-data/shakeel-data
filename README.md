@@ -12,7 +12,7 @@
 
 ## 🚀 PROFILE SUMMARY
 
-- Entry level Data analys and Data Scientist with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
+- Detail-oriented SWE, Data Engineer and Data Scientist with a background in healthcare operations and hands-on experience in building machine learning models using Python, SQL, Power BI, and PyTorch. Achieved over **95% accuracy** on real-world datasets by applying techniques like **XGBoost, Random Forest, and Neural Networks**. Skilled in data wrangling, visualization, and predictive modeling, with a strong focus on solving business problems using data.
 - 📚 Completed Professional certifications in :
    - **IBM Machine Learning** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8)
    - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
