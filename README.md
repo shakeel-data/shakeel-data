@@ -63,7 +63,7 @@
       `Amazon-RDS`, `Amazon-S3`, `Amazon-msk`, `Apache-kafka`, `Debezium`, `EC2`, `IAM`, `VPC`, `DBeaver`
   
 - 🎗 [Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)
-      `Neural network`, `PyTorch`, `Spyder Ide`
+      `Neural Network`, `PyTorch`, `Spyder Ide`
   
 - 🔐 [Credit Card Fraud Detection System](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
       `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
