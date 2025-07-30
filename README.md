@@ -95,7 +95,7 @@
 - Practiced secure handling of patient and payer data in line with **HIPAA** principles using tools like CareCentral, Excel, and Microsoft Teams.
 
 ---
-## OTHER EXPERIENCE
+## 👥 OTHER EXPERIENCE
 ### Agaram Foundation | Chennai, India
 **Volunteer** | *Mar 2023 – Present*
 - Actively contributed to a non-profit organization dedicated to promoting education and empowering underprivileged communities across Tamil Nadu.
