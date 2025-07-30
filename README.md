@@ -86,20 +86,27 @@
 - Ensured data integrity by verifying insurance eligibility and benefits via CareCentral, reducing data verification errors by **15%**. 
 - Streamlined sensitive data handling pipelines for prior authorizations in coordination with payers, reducing processing delays by 20%.
 - Structured and validated Excel-based data logs to enhance reporting performance, resulting in 25% higher accuracy and ensuring compliance with process SLAs.
-- Practiced secure handling of patient and payer data in line with **HIPAA** principles using tools like CareCentral, Excel, and Microsoft Teams. 
----
-## OTHER EXPERIENCE
+- Practiced secure handling of patient and payer data in line with **HIPAA** principles using tools like CareCentral, Excel, and Microsoft Teams.
+
 ### Don Bosco Valikhatti | Chennai, India
 **Power BI Trainer** | *Mar 2025 – Present*
 - Conducted Interactive Power BI sessions for 50+ students, covering data modeling, Power Query, DAX, and dashboard creation with real-time business use cases.
 - Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
 - Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
+---
+## OTHER EXPERIENCE
+### Agaram FOundation | Chennai, India
+**Volunteer** | *Mar 2023 – Present*
+- Actively contributed to a non-profit organization dedicated to promoting education and empowering underprivileged communities across Tamil Nadu.
+- Played a key role in planning and executing educational outreach events, workshops, and awareness campaigns aimed at increasing school enrollment and reducing dropout rates among marginalized children.
+- Led coordination of volunteer teams, ensuring smooth collaboration and effective task distribution among over 50+ volunteers during various community events and drives.
 
 ### OneMaster Hub | Chennai, India
 **Personal Tutor** | *Jun 2022 – Present*
 - Mentored 20+ students from Class 7 to 12 students in subjects like Math, Computer Science, English, and Commerce empowering them with strong foundations and real-world thinking.
 - Designed personalized lesson plans and conducted 100+ hours of online/offline sessions, resulting in an average 30–50% improvement in student exam scores and self-confidence.
 - Focused on concept clarity, problem-solving, and skill-based learning, blending school curriculum with modern tools like Google Meet, Notion, YouTube, and whiteboard apps.
+
 ---
 ## 🎓 EDUCATION
 **Master of Business Administration (MBA), Specialization: Business Data Analytics**
