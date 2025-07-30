@@ -80,6 +80,12 @@
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
+### Don Bosco Valikhatti | Chennai, India
+**Power BI Trainer** | *Mar 2025 – Present*
+- Conducted Interactive Power BI sessions for 50+ students, covering data modeling, Power Query, DAX, and dashboard creation with real-time business use cases.
+- Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
+- Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
+
 ### Omega Healthcare | Chennai, India
 **AR Process Executive** | *Sep 2024 – Mar 2025*
 
@@ -87,15 +93,10 @@
 - Streamlined sensitive data handling pipelines for prior authorizations in coordination with payers, reducing processing delays by 20%.
 - Structured and validated Excel-based data logs to enhance reporting performance, resulting in 25% higher accuracy and ensuring compliance with process SLAs.
 - Practiced secure handling of patient and payer data in line with **HIPAA** principles using tools like CareCentral, Excel, and Microsoft Teams.
-
-### Don Bosco Valikhatti | Chennai, India
-**Power BI Trainer** | *Mar 2025 – Present*
-- Conducted Interactive Power BI sessions for 50+ students, covering data modeling, Power Query, DAX, and dashboard creation with real-time business use cases.
-- Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
-- Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
+- 
 ---
 ## OTHER EXPERIENCE
-### Agaram FOundation | Chennai, India
+### Agaram Foundation | Chennai, India
 **Volunteer** | *Mar 2023 – Present*
 - Actively contributed to a non-profit organization dedicated to promoting education and empowering underprivileged communities across Tamil Nadu.
 - Played a key role in planning and executing educational outreach events, workshops, and awareness campaigns aimed at increasing school enrollment and reducing dropout rates among marginalized children.
