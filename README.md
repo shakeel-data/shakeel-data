@@ -92,8 +92,8 @@
 ### Don Bosco Valikhatti | Chennai, India
 **Power BI Trainer** | *Mar 2025 – Present*
 - Conducted Interactive Power BI sessions for 50+ students, covering data modeling, Power Query, DAX, and dashboard creation with real-time business use cases.
-• Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
-• Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
+- Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
+- Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
 ---
 ## 🎓 EDUCATION
 **Master of Business Administration (MBA), Specialization: Business Data Analytics**
