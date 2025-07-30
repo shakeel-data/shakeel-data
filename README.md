@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 TOP PORTFOLIO PROJECTS
+## 📊 TOP DATA & AI PROJECTS
 
 - 🛢️ [AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)
       `Amazon-RDS`, `Amazon-S3`, `Amazon-msk`, `Apache-kafka`, `Debezium`, `EC2`, `IAM`, `VPC`, `DBeaver`
