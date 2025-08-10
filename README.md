@@ -1,6 +1,6 @@
 #  <h1 align="center">Hi there I'm Shakeel Ahamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
-## <n align="centre">📍 **Chennai, India** |  🧠 **Data Scientist** |  ⚙️ **Data Analyst** |  💻 **Business Analyst** 
+## <n align="centre">📍 **Chennai, India** |  🧠 **Data Scientist** | 💻 **Business Analyst** | ⚙️ **Data Analyst**
 ---
 ## 📫 LET'S CONNECT
 
