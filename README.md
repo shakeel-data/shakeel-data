@@ -103,10 +103,10 @@
 
 ### OneMaster Hub | Chennai, India
 **Personal Tutor** | *Jun 2022 – Present*
-- Mentored 20+ students from Class 7 to 12 students in subjects like Math, Computer Science, English, and Commerce empowering them with strong foundations and real-world thinking.
-- Designed personalized lesson plans and conducted 100+ hours of online/offline sessions, resulting in an average 30–50% improvement in student exam scores and self-confidence.
-- Focused on concept clarity, problem-solving, and skill-based learning, blending school curriculum with modern tools like Google Meet, Notion, YouTube, and whiteboard apps.
-
+- Mentored 20+ students (Class 7–12) across multiple subjects, developing foundational knowledge and real-world problem-solving skills through personalized lesson plans and 100+ hours of sessions.
+- Helped students build real-world problem-solving abilities through practical exercises, career guidance, and digital tool exposure (Excel, Python basics).
+- Improved average exam scores by 30–50% through concept clarity, structured learning plans, and regular performance tracking.
+- Integrated modern AI-powered learning tools (Notion, NapkinAI, Google AI Studio, YouLearnAI) to enhance engagement and skill-based learning beyond the curriculum.
 ---
 ## 🎓 EDUCATION
 **Master of Business Administration (MBA), Specialization: Business Data Analytics**
