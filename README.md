@@ -11,15 +11,12 @@
 ---
 
 ## 🚀 ABOUT
-
 - As a Power BI Trainer, I design hands-on, project-based curriculums that enhance dashboard-building speed and data visualization skills, incorporating advanced tools like DAX, Power Query, and AI-powered analytics. Students have reported significant improvements in productivity and problem-solving, supported by personalized feedback and cutting-edge technology. 
 - Currently pursuing an MBA in Business Data Analytics at the University of Madras, I bring a strong foundation in business intelligence, data modeling, and emerging technologies like AI. Motivated by curiosity and a commitment to impactful learning, my goal is to empower others with scalable, data-driven solutions that drive decision-making and innovation.
 - 📚 Completed Professional certifications in :
    - **IBM Machine Learning** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8)
    - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
    - **Microsoft Power BI Data Analyst** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ)
-- 🤖 Currently building end-to-end data projects to strengthen my portfolio.
-
 ---
 
 ## ⚙️ TECHNICAL SKILLS
