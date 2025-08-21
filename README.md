@@ -96,9 +96,10 @@
 ## 👥 OTHER EXPERIENCE
 ### Agaram Foundation | Chennai, India
 **Volunteer** | *Mar 2023 – Present*
-- Actively contributed to a non-profit organization dedicated to promoting education and empowering underprivileged communities across Tamil Nadu.
-- Played a key role in planning and executing educational outreach events, workshops, and awareness campaigns aimed at increasing school enrollment and reducing dropout rates among marginalized children.
-- Led coordination of volunteer teams, ensuring smooth collaboration and effective task distribution among over 50+ volunteers during various community events and drives.
+• Actively contributed to initiatives promoting education and empowerment for underprivileged communities across Tamil Nadu.
+• Planned and executed educational outreach events, workshops, and awareness campaigns, helping increase school enrollment and reduce dropout rates among marginalized children.
+• Coordinated 50+ volunteers across multiple community events, ensuring smooth collaboration, clear task distribution, and successful program delivery.
+• Developed leadership, project management, and stakeholder communication skills by liaising with educators, local authorities, and community leaders to align on program goals.
 
 ### OneMaster Hub | Chennai, India
 **Personal Tutor** | *Jun 2022 – Present*
