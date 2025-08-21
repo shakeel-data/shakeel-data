@@ -79,13 +79,13 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 ### Don Bosco Valikhatti | Chennai, India
-**Power BI Trainer (Freelance, On-site)** | *Mar 2025 – Present*
+**Power BI Trainer (Freelance)** | *Mar 2025 – Present*
 - Conducted Interactive Power BI sessions for 50+ students, covering data modeling, Power Query, DAX, and dashboard creation with real-time business use cases.
 - Designed and delivered a practical, hands-on curriculum, helping students transition from raw data to actionable insights and improving their data storytelling skills by over 60%.
 - Introduced students to cutting-edge AI tools in the final session, including Google AI Studio, NapkinAI, Gamma, YouLearnAI, MeetingAI, and others — sparking curiosity in AI-powered productivity and future tech.
 
 ### Omega Healthcare | Chennai, India
-**AR Process Executive (Fulltime, On-site)** | *Sep 2024 – Mar 2025*
+**AR Process Executive (Fulltime)** | *Sep 2024 – Mar 2025*
 
 - Ensured data integrity by verifying insurance eligibility and benefits via CareCentral, reducing data verification errors by **15%**. 
 - Streamlined sensitive data handling pipelines for prior authorizations in coordination with payers, reducing processing delays by 20%.
