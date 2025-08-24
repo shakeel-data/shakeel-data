@@ -66,7 +66,7 @@
       `Neural Network`, `PyTorch`, `Spyder Ide`
   
 - 🔐 [Credit Card Fraud Detection System](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-      `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
+  `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
   
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
      `Scikit-learn`, `KMeans`, `PCA`, `Jupyter Notebbok`
