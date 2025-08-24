@@ -58,7 +58,7 @@
 ## 📊 TOP DATA & AI PROJECTS
 
 - 💬 [YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)
-     `YouTube API`, `Hugging Face`, `Gemini AI`, `NumPy`, `Pandas`, `Matplotlib`
+      `YouTube API`, `Hugging Face`, `Gemini AI`, `NumPy`, `Pandas`, `Matplotlib`
 - 🛢️ [AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)
       `Amazon-RDS`, `Amazon-S3`, `Amazon-msk`, `Apache-kafka`, `Debezium`, `EC2`, `IAM`, `VPC`, `DBeaver`
   
@@ -66,16 +66,16 @@
       `Neural Network`, `PyTorch`, `Spyder Ide`
   
 - 🔐 [Credit Card Fraud Detection System](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)
-  `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
+      `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle`
   
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
-     `Scikit-learn`, `KMeans`, `PCA`, `Jupyter Notebbok`
+      `Scikit-learn`, `KMeans`, `PCA`, `Jupyter Notebbok`
   
 - 📉 [Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
-     `Microsoft SQL Server`, `Random Forest`, `Microsoft Power BI Desktop`
+      `Microsoft SQL Server`, `Random Forest`, `Microsoft Power BI Desktop`
   
 - 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
-     `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`
+      `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`
 
 ---
 
