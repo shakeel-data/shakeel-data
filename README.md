@@ -57,6 +57,8 @@
 
 ## 📊 TOP DATA & AI PROJECTS
 
+- 💬 [YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)
+     `YouTube API`, `Hugging Face`, `Gemini AI`, `NumPy`, `Pandas`, `Matplotlib`
 - 🛢️ [AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)
       `Amazon-RDS`, `Amazon-S3`, `Amazon-msk`, `Apache-kafka`, `Debezium`, `EC2`, `IAM`, `VPC`, `DBeaver`
   
