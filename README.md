@@ -71,11 +71,11 @@
 - 👤 [Customer Segmentation Clustering](https://github.com/shakeel-data/customer-segmentation-clustering)
      `Scikit-learn`, `KMeans`, `PCA`, `Jupyter Notebbok`
   
-- 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
-     `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`
-
 - 📉 [Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)  
      `Microsoft SQL Server`, `Random Forest`, `Microsoft Power BI Desktop`
+  
+- 🛍️ [Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)  
+     `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `PostgreSQL`, `Visual Studio Code`
 
 ---
 
