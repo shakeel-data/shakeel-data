@@ -49,37 +49,101 @@
 
 <!-- Clean Tech Stack Section -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
-    Technology Stack
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=400&lines=Technology+Arsenal;Skills+%26+Tools;Tech+Mastery" alt="Tech Stack"/>
   </h2>
 </div>
 
+<!-- Interactive Skill Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,pytorch,tensorflow,aws,gcp,docker,kubernetes,bigquery,powerbi,tableau,plotly,git,jupyter,vscode,linux&theme=dark&perline=10" />
+</div>
+
+<!-- Animated Progress Bars -->
+<div align="center" style="margin: 30px 0;">
+  
+  **🔥 Core Expertise**
+  <br/>
+  
+  ![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2B2B2B)
+  ![SQL](https://img.shields.io/badge/SQL-90%25-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=2B2B2B)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-85%25-FF6B35?style=flat-square&logo=tensorflow&logoColor=white&labelColor=2B2B2B)
+  ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-90%25-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=2B2B2B)
+  ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-80%25-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=2B2B2B)
+
+</div>
+
+<!-- Tech Categories with Hover Effects -->
 <div align="center">
   
-  **Programming & Analytics**
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Languages-FF6B35?style=for-the-badge&logoColor=white" alt="Languages"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/ML%20%26%20AI-0078D4?style=for-the-badge&logoColor=white" alt="ML & AI"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Cloud-4CAF50?style=for-the-badge&logoColor=white" alt="Cloud"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
+        <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Analytics-9C27B0?style=for-the-badge&logoColor=white" alt="Analytics"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/BI%20Tools-FF9800?style=for-the-badge&logoColor=white" alt="BI Tools"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+        <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- Animated Tech Stack Card -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Primary%20Tech%20Stack&lineCount=3&theme=github_dark&bg=0d1117&badge=0078D4&border=21262d&titleColor=58a6ff&line1=Python,python,3776AB;SQL,postgresql,336791;Pandas,pandas,150458;&line2=scikit-learn,scikitlearn,F7931E;PyTorch,pytorch,EE4C2C;AWS,amazonaws,232F3E;&line3=Power%20BI,powerbi,F2C811;Docker,docker,2496ED;Git,git,F05032;" alt="Tech Stack Card"/>
+</div>
+
+<!-- Dynamic Skill Visualization -->
+<div align="center">
   
+  **⚡ Proficiency Radar**
   <br/><br/>
   
-  **Machine Learning & AI**
-  <br/><br/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
+  <!-- Custom SVG or use a service like Chart.js via URL -->
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','SQL','ML/AI','Cloud','BI Tools','Statistics'],datasets:[{label:'Expertise Level',data:[95,90,85,80,90,85],borderColor:'rgb(0,120,212)',backgroundColor:'rgba(0,120,212,0.2)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="400" alt="Skills Radar"/>
+
+</div>
+
+<!-- Trending Technologies I'm Learning -->
+<div align="center" style="margin: 30px 0;">
   
+  **🌱 Currently Mastering**
   <br/><br/>
   
-  **Cloud & Business Intelligence**
-  <br/><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  
+  <img src="https://img.shields.io/badge/🔥%20Deep%20Learning-FF4444?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/☁️%20MLOps-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/🚀%20Real--Time%20Analytics-FF6B35?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Real-Time Analytics"/>
+
 </div>
 
 ---
