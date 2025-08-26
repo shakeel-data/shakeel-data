@@ -38,11 +38,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white) <!-- Custom color + logo name -->
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ![Scikit-learn](https://camo.githubusercontent.com/0ad18fa0ec11eec42003562b40a61f4d8643454535b4f3b167bdde4a308b8491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
-![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![KMeans](https://img.shields.io/badge/KMeans-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<!-- Prophet uses Facebook logo -->
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![KMeans](https://img.shields.io/badge/KMeans-9C27B0?style=for-the-badge&logo=clustering&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D00?style=for-the-badge&logo=boost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white)
