@@ -8,7 +8,7 @@
   
   <!-- Professional Tagline -->
   <h3 style="color: #323130; font-family: 'Segoe UI', sans-serif; margin: 20px 0;">
-    Data Scientist • Business Intelligence
+    Data Scientist • Business Intelligence • Data Enthusiast
   </h3>
   
   <!-- Contact Links -->
