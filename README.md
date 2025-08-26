@@ -12,20 +12,12 @@
   </h3>
   
   <!-- Contact Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:shakeelahamed6618@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.coursera.org/learner/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-    </a>
-    <a href="https://github.com/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
+ <p align="center">
+<a href="https://www.linkedin.com/in/shakeel-data" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shakeelahamed6618@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.coursera.org/learner/shakeel-data" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+<a href="https://github.com/shakeel-data" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
   
   <!-- Profile Statistics -->
   <p align="center">
