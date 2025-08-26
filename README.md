@@ -49,9 +49,21 @@
 
 ### Technologies
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,pytorch,tensorflow,aws,gcp,docker,git,jupyter,vscode" />
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
 
 
 
