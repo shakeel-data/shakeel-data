@@ -47,53 +47,59 @@
 
 ---
 
-### Technologies & Expertise
+### Technology Stack
 
 <div align="center">
 
-<!-- Core Skills with Proficiency Levels -->
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"/>
-<br/>**5+ Years**
+<td>
+
+**🐍 Data Science**
+Python ████████████ 95%
+Pandas ███████████ 90%
+NumPy ███████████ 90%
+scikit-learn ██████████ 85%
+
+
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="100%"/>
-<br/>**4+ Years**
+<td>
+
+**🧠 Machine Learning**
+PyTorch ████████ 80%
+TensorFlow ███████ 75%
+Prophet ████████ 80%
+XGBoost ████████ 80%
+
+
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/AWS-Proficient-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" width="100%"/>
-<br/>**3+ Years**
+</tr>
+<tr>
+<td>
+
+**☁️ Cloud Platforms**
+AWS ███████ 75%
+Google Cloud ████████ 80%
+BigQuery ████████ 80%
+Docker ███████ 75%
+
+
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100%"/>
-<br/>**4+ Years**
+<td>
+
+**📊 Visualization**
+Power BI ████████████ 95%
+Tableau ██████████ 85%
+Plotly ████████ 80%
+Seaborn ████████ 80%
+
+
 </td>
 </tr>
 </table>
 
-<!-- Specialized Technologies -->
-**Data Science & ML**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-
-**Cloud & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery"/>
-
-**Business Intelligence**
-<br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly"/>
-
 </div>
+
 
 
 
