@@ -18,52 +18,54 @@
    - **Meta Database Engineer** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
    - **Microsoft Power BI Data Analyst** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ)
 ---
-
 ## ⚙️ TECHNICAL SKILLS
-### 💻 Tech Stack:
+
+### 💻 Core Technologies
+*This section covers the fundamental languages, databases, and libraries used in this project.*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-
-
-### ☁️ Cloud:
+### ☁️ Cloud Platforms
+*Expertise in deploying and managing data solutions on leading cloud platforms.*
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
 </p>
 
-### 🤖 Machine Learning:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white) <!-- Custom color + logo name -->
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-![Scikit-learn](https://camo.githubusercontent.com/0ad18fa0ec11eec42003562b40a61f4d8643454535b4f3b167bdde4a308b8491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![KMeans](https://img.shields.io/badge/KMeans-9C27B0?style=for-the-badge&logo=clustering&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC2D00?style=for-the-badge&logo=boost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logo=leaflet&logoColor=white)
+### 🤖 Machine Learning & Deep Learning
+*Specialized libraries for building, training, and deploying predictive models.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Prophet-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
+  <img src="https://img.shields.io/badge/XGBoost-0066B0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-00A9E0?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-### 🧬 Deep Learning:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 📊 BI & Visualization Tools
+*Tools used for creating insightful dashboards and data visualizations.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
 
-### 🛠️ Develpment Tools & Environments:
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Kaggle](https://camo.githubusercontent.com/09863c0d1b37b39630da97cebd29b81129de2e4fb0ad06b48187df332ca35c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)
-
+### 🛠️ Development Environments
+*The primary environments for coding, analysis, and collaboration.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+</p>
 ---
+
 
 ## 📊 TOP DATA & AI PROJECTS
 
