@@ -1,17 +1,17 @@
 <div align="center">
   
-  <!-- Clean Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shakeel+Ahamed;Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Insights" alt="Typing SVG" />
+  <!-- Elegant Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=42&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Shakeel+Ahamed;Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Insights" alt="Typing Header" />
   
-  <!-- Subtle Professional Banner -->
+  <!-- Professional Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
   
   <!-- Professional Tagline -->
-  <h3 style="color: #323130; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0;">
-    🎯 Data Scientist • 📊 Business Analyst • 🤖 AI Specialist
+  <h3 style="color: #323130; font-family: 'Segoe UI', sans-serif; margin: 20px 0;">
+    🎯 Data Scientist • 📊 Business Intelligence • 🤖 AI Specialist • 📈 Power BI Expert
   </h3>
   
-  <!-- Clean Contact Section -->
+  <!-- Contact Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,32 +22,40 @@
     <a href="https://www.coursera.org/learner/shakeel-data" target="_blank">
       <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
     </a>
+    <a href="https://github.com/shakeel-data" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
   </p>
   
-  <!-- Professional Stats -->
+  <!-- Profile Statistics -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/shakeel-data?label=Followers&style=flat-square&color=0078D4" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/shakeel-data?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow" alt="Stars" />
   </p>
 
 </div>
 
 ---
 
-<!-- Professional About Section -->
+<!-- About Section -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
-    About Me
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=300&lines=About+Me;My+Story;Who+I+Am" alt="About"/>
   </h2>
 </div>
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #323130; max-width: 700px; margin: 20px auto; line-height: 1.6;">
-  As a <strong>Power BI Trainer</strong> and <strong>MBA candidate in Business Data Analytics</strong>, I specialize in transforming complex datasets into strategic business insights. My expertise spans <strong>AI/ML development</strong>, <strong>cloud analytics</strong>, and <strong>data visualization</strong>, with a passion for democratizing data literacy through hands-on education.
+<p align="center" style="font-family: 'Segoe UI', sans-serif; font-size: 16px; color: #323130; max-width: 800px; margin: 20px auto; line-height: 1.8;">
+  As a <strong>Power BI Trainer</strong> and <strong>MBA candidate in Business Data Analytics</strong>, I'm passionate about transforming complex datasets into strategic business insights. My expertise spans <strong>AI/ML development</strong>, <strong>cloud analytics</strong>, and <strong>interactive dashboards</strong>. I believe in democratizing data literacy and empowering teams to make data-driven decisions that drive real business impact.
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+</div>
 
 ---
 
-<!-- Clean Tech Stack Section -->
+<!-- Extraordinary Technology Stack -->
 <div align="center">
   <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=400&lines=Technology+Arsenal;Skills+%26+Tools;Tech+Mastery" alt="Tech Stack"/>
@@ -56,14 +64,14 @@
 
 <!-- Interactive Skill Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,pytorch,tensorflow,aws,gcp,docker,kubernetes,bigquery,powerbi,tableau,plotly,git,jupyter,vscode,linux&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,pytorch,tensorflow,aws,gcp,docker,kubernetes,powerbi,tableau,plotly,git,jupyter,vscode,linux&theme=dark&perline=9" />
 </div>
 
-<!-- Animated Progress Bars -->
+<!-- Skill Proficiency -->
 <div align="center" style="margin: 30px 0;">
   
   **🔥 Core Expertise**
-  <br/>
+  <br/><br/>
   
   ![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2B2B2B)
   ![SQL](https://img.shields.io/badge/SQL-90%25-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=2B2B2B)
@@ -73,7 +81,7 @@
 
 </div>
 
-<!-- Tech Categories with Hover Effects -->
+<!-- Categorized Tech Stack -->
 <div align="center">
   
   <table>
@@ -118,23 +126,7 @@
 
 </div>
 
-<!-- Animated Tech Stack Card -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Primary%20Tech%20Stack&lineCount=3&theme=github_dark&bg=0d1117&badge=0078D4&border=21262d&titleColor=58a6ff&line1=Python,python,3776AB;SQL,postgresql,336791;Pandas,pandas,150458;&line2=scikit-learn,scikitlearn,F7931E;PyTorch,pytorch,EE4C2C;AWS,amazonaws,232F3E;&line3=Power%20BI,powerbi,F2C811;Docker,docker,2496ED;Git,git,F05032;" alt="Tech Stack Card"/>
-</div>
-
-<!-- Dynamic Skill Visualization -->
-<div align="center">
-  
-  **⚡ Proficiency Radar**
-  <br/><br/>
-  
-  <!-- Custom SVG or use a service like Chart.js via URL -->
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','SQL','ML/AI','Cloud','BI Tools','Statistics'],datasets:[{label:'Expertise Level',data:[95,90,85,80,90,85],borderColor:'rgb(0,120,212)',backgroundColor:'rgba(0,120,212,0.2)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="400" alt="Skills Radar"/>
-
-</div>
-
-<!-- Trending Technologies I'm Learning -->
+<!-- Currently Learning -->
 <div align="center" style="margin: 30px 0;">
   
   **🌱 Currently Mastering**
@@ -148,10 +140,10 @@
 
 ---
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
-    Featured Projects
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=400&lines=Featured+Projects;Portfolio+Showcase;My+Work" alt="Projects"/>
   </h2>
 </div>
 
@@ -163,7 +155,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=amazon-sales-forecasting&theme=default&hide_border=true" alt="Amazon Sales Forecasting"/>
       </a>
       <p><strong>Tech:</strong> Python • BigQuery • Prophet • Machine Learning</p>
-      <p>End-to-end ML pipeline with 87% prediction accuracy</p>
+      <p>📈 End-to-end ML pipeline achieving <strong>87% prediction accuracy</strong></p>
     </td>
     <td width="50%" align="center">
       <h3>💬 YouTube Sentiment Analysis</h3>
@@ -171,7 +163,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=youtube-sentiment-analysis&theme=default&hide_border=true" alt="YouTube Sentiment Analysis"/>
       </a>
       <p><strong>Tech:</strong> NLP • Hugging Face • Gemini AI • YouTube API</p>
-      <p>Real-time sentiment analysis with AI integration</p>
+      <p>🤖 Real-time sentiment analysis with <strong>AI integration</strong></p>
     </td>
   </tr>
   <tr>
@@ -181,7 +173,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=AWS-data-streaming-pipeline&theme=default&hide_border=true" alt="AWS Data Pipeline"/>
       </a>
       <p><strong>Tech:</strong> AWS • Apache Kafka • Debezium • EC2</p>
-      <p>Scalable real-time data processing architecture</p>
+      <p>⚡ Scalable <strong>real-time data processing</strong> architecture</p>
     </td>
     <td width="50%" align="center">
       <h3>🔐 Credit Card Fraud Detection</h3>
@@ -189,14 +181,14 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=credit-card-fraud-deduction-predictive-models&theme=default&hide_border=true" alt="Fraud Detection"/>
       </a>
       <p><strong>Tech:</strong> XGBoost • LightGBM • Deep Learning</p>
-      <p>Advanced ML models for financial security</p>
+      <p>🛡️ Advanced ML models for <strong>financial security</strong></p>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <a href="https://github.com/shakeel-data?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Projects-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🔍%20Explore%20All%20Projects-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -204,47 +196,48 @@
 
 <!-- Professional Experience -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
-    Professional Experience
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
+    Professional Journey
   </h2>
 </div>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
+<div align="center" style="max-width: 900px; margin: 0 auto;">
 
 **💼 Power BI Trainer (Freelance)** • *Don Bosco Valikhatti* • `Mar 2025 – Present`
-- Designed comprehensive Power BI curriculum for **50+ professionals**
-- Achieved **60% improvement** in dashboard development skills
-- Introduced cutting-edge AI tools and modern analytics methodologies
+- 🎯 Designed comprehensive Power BI curriculum for **50+ professionals**
+- 📊 Achieved **60% improvement** in dashboard development skills
+- 🚀 Introduced cutting-edge AI tools and modern analytics methodologies
 
 **💼 AR Process Executive** • *Omega Healthcare* • `Sep 2024 – Mar 2025`
-- Ensured **HIPAA compliance** and reduced data verification errors by **15%**
-- Streamlined data pipelines, reducing processing delays by **20%**
-- Enhanced reporting accuracy by **25%** through structured validation
+- 🔒 Ensured **HIPAA compliance** and reduced data verification errors by **15%**
+- ⚡ Streamlined data pipelines, reducing processing delays by **20%**
+- 📈 Enhanced reporting accuracy by **25%** through structured validation
 
 **💼 Community Volunteer** • *Agaram Foundation* • `Mar 2023 – Present`
-- Coordinated educational initiatives for **50+ volunteers**
-- Improved school enrollment and reduced dropout rates in marginalized communities
+- 👥 Coordinated educational initiatives for **50+ volunteers**
+- 🎓 Improved school enrollment and reduced dropout rates in marginalized communities
+- 📚 Led impactful educational outreach programs
 
 </div>
 
 ---
 
-<!-- Professional Certifications -->
+<!-- Certifications -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
     Professional Certifications
   </h2>
 </div>
 
 <div align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML"/>
+    <img src="https://img.shields.io/badge/IBM-Machine%20Learning%20Specialist-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Database_Engineer-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta DB"/>
+    <img src="https://img.shields.io/badge/Meta-Database%20Engineer-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta DB"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Power_BI_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="MS Power BI"/>
+    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="MS Power BI"/>
   </a>
 </div>
 
@@ -252,7 +245,7 @@
 
 <!-- GitHub Analytics -->
 <div align="center">
-  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #0078D4; display: inline-block; padding-bottom: 8px;">
+  <h2 style="color: #0078D4; font-family: 'Segoe UI', sans-serif;">
     GitHub Analytics
   </h2>
 </div>
@@ -262,25 +255,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0078D4" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel-data&theme=default&hide_border=true&stroke=0078D4&ring=0078D4&fire=0078D4" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-<!-- Clean Contact Section -->
+<!-- Contact Footer -->
 <div align="center">
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer&text=Let's%20Connect&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
   
   <h2 style="color: #323130; font-family: 'Segoe UI', sans-serif;">Ready to Collaborate?</h2>
   
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" width="25%">
         <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
           <img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-          <br/><strong>LinkedIn</strong><br/>Let's connect professionally
+          <br/><strong>LinkedIn</strong><br/>Connect professionally
         </a>
       </td>
       <td align="center" width="25%">
@@ -297,7 +294,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/shakeel-data?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           <br/><strong>GitHub Portfolio</strong><br/>View all projects
         </a>
       </td>
@@ -306,14 +303,14 @@
   
   <br/>
   
-  <!-- Smooth Typing Call to Action -->
+  <!-- Final Call to Action -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=4000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Open+to+exciting+collaboration+opportunities;Building+the+future+with+data+and+AI;Always+learning%2C+always+growing" />
   
 </div>
 
 ---
 
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-top: 40px;">
   <p style="font-family: 'Segoe UI', sans-serif; color: #605E5C; font-size: 14px;">
     💡 <em>"Data is the new oil, but insights are the refined fuel that powers innovation."</em>
   </p>
