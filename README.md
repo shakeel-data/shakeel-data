@@ -159,6 +159,179 @@
 
 <!-- Professional Experience Timeline -->
 <h2 align="center">💼 Professional Journey</h2>
+Mar 2025 - Present : Power BI Trainer (Freelance)
+                  : Don Bosco Valikhatti
+                  : 50+ students trained
+                  : 60% improvement in skills
+
+Sep 2024 - Mar 2025 : AR Process Executive
+                    : Omega Healthcare
+                    : 15% error reduction
+                    : HIPAA compliance expert
+
+Mar 2023 - Present : Community Volunteer
+                   : Agaram Foundation
+                   : 50+ volunteers coordinated
+                   : Educational impact initiatives
 
 <div align="center">
 
+
+</div>
+
+---
+
+<!-- Advanced GitHub Analytics -->
+<h2 align="center">📈 GitHub Performance Analytics</h2>
+
+<div align="center">
+  
+  <!-- GitHub Stats with Custom Theme -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shakeel-data&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  
+  <br/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel-data&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  
+  <br/>
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakeel-data&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  
+  <br/>
+  
+  <!-- Achievement Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- Certifications Showcase -->
+<h2 align="center">🏆 Professional Certifications</h2>
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
+          <img src="https://img.shields.io/badge/-IBM%20Machine%20Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+          <br/>
+          <strong>IBM Machine Learning</strong>
+          <br/>
+          Professional Certificate
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
+          <img src="https://img.shields.io/badge/-Meta%20Database%20Engineer-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
+          <br/>
+          <strong>Meta Database Engineer</strong>
+          <br/>
+          Professional Certificate
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
+          <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+          <br/>
+          <strong>Power BI Data Analyst</strong>
+          <br/>
+          Professional Certificate
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<!-- Real-time Activity Feed -->
+<h2 align="center">⚡ Recent Activity</h2>
+
+<div align="center">
+  
+  <!-- GitHub Activity -->
+  <a href="https://github.com/shakeel-data">
+    <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Real-time%20GitHub%20Analytics" alt="GitHub Activity"/>
+  </a>
+  
+</div>
+
+---
+
+<!-- Interactive Contact Section -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20Connect%20%26%20Collaborate&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  
+  <h2>🤝 Ready to Build Something Amazing Together?</h2>
+  
+  <!-- Enhanced Contact Cards -->
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
+          <img src="https://img.shields.io/badge/-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          <br/>
+          <strong>LinkedIn</strong>
+          <br/>
+          Let's connect professionally
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="mailto:shakeelahamed6618@gmail.com">
+          <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          <br/>
+          <strong>Direct Contact</strong>
+          <br/>
+          Discuss opportunities
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.coursera.org/learner/shakeel-data" target="_blank">
+          <img src="https://img.shields.io/badge/-View%20Certifications-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+          <br/>
+          <strong>Coursera Profile</strong>
+          <br/>
+          Check my credentials
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/shakeel-data" target="_blank">
+          <img src="https://img.shields.io/badge/-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          <br/>
+          <strong>GitHub Portfolio</strong>
+          <br/>
+          Dive into my projects
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- Call to Action -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=%23FF6B6B&center=true&vCenter=true&width=600&lines=Open+to+Collaborate+on+Exciting+Projects!;Let%27s+Build+the+Future+with+Data+%26+AI;Always+Learning%2C+Always+Growing" />
+  </h3>
+  
+  <p>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+    <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "The best time to plant a tree was 20 years ago. The second best time is now." - Ancient Proverb</i>
+  <br/>
+  <i>🚀 Building tomorrow's solutions with today's data</i>
+</div>
