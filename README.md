@@ -276,11 +276,8 @@
 
 ---
 
-<div align="center" style="margin-top: 40px;">
+<div align="center" style="margin-top: p60x;">
   <p style="font-family: 'Segoe UI', sans-serif; color: #605E5C; font-size: 14px;">
     💡 <em>"Data is the new oil, but insights are the refined fuel that powers innovation."</em>
-  </p>
-  <p style="font-family: 'Segoe UI', sans-serif; color: #A19F9D; font-size: 12px; margin-top: 20px;">
-    Crafted with ❤️ by Shakeel • Inspired by Microsoft, Google & Meta Design Systems
   </p>
 </div>
