@@ -121,7 +121,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=amazon-sales-forecasting&theme=default&hide_border=true" alt="Amazon Sales Forecasting"/>
       </a>
       <p><strong>Tech:</strong> Python • BigQuery • Prophet • Machine Learning</p>
-      <p>📈 End-to-end ML pipeline achieving <strong>87% prediction accuracy</strong></p>
+      <p>End-to-end ML pipeline achieving <strong>87% prediction accuracy</strong></p>
     </td>
     <td width="50%" align="center">
       <h3>💬 YouTube Sentiment Analysis</h3>
@@ -129,7 +129,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=youtube-sentiment-analysis&theme=default&hide_border=true" alt="YouTube Sentiment Analysis"/>
       </a>
       <p><strong>Tech:</strong> NLP • Hugging Face • Gemini AI • YouTube API</p>
-      <p>🤖 Real-time sentiment analysis with <strong>AI integration</strong></p>
+      <p>Real-time sentiment analysis with <strong>AI integration</strong></p>
     </td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=AWS-data-streaming-pipeline&theme=default&hide_border=true" alt="AWS Data Pipeline"/>
       </a>
       <p><strong>Tech:</strong> AWS • Apache Kafka • Debezium • EC2</p>
-      <p>⚡ Scalable <strong>real-time data processing</strong> architecture</p>
+      <p>Scalable <strong>real-time data processing</strong> architecture</p>
     </td>
     <td width="50%" align="center">
       <h3>🔐 Credit Card Fraud Detection</h3>
@@ -147,7 +147,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=credit-card-fraud-deduction-predictive-models&theme=default&hide_border=true" alt="Fraud Detection"/>
       </a>
       <p><strong>Tech:</strong> XGBoost • LightGBM • Deep Learning</p>
-      <p>🛡️ Advanced ML models for <strong>financial security</strong></p>
+      <p>🛡Advanced ML models for <strong>financial security</strong></p>
     </td>
   </tr>
 </table>
