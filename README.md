@@ -1,108 +1,164 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Shakeel Ahamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
-  <p align="center">
-    A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
-  </p>
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2300D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Shakeel+Ahamed;Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Insights;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  
+  <!-- Custom Wave Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <!-- Professional Tagline with Gradient -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=%23FF6B6B&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Business+Analyst;AI+%26+ML+Specialist;Power+BI+Expert;Building+Tomorrow%27s+Solutions+Today" />
+  </h3>
+
+  <!-- Enhanced Contact Section -->
   <p align="center">
     <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0077B5&color=0077B5"/>
     </a>
     <a href="mailto:shakeelahamed6618@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&color=D14836"/>
     </a>
     <a href="https://www.coursera.org/learner/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+      <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=0056D2&color=0056D2"/>
+    </a>
+    <a href="https://github.com/shakeel-data" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white&labelColor=FF5722&color=FF5722"/>
     </a>
   </p>
+  
+  <!-- Live Visitor Counter & GitHub Stats Preview -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/shakeel-data?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/shakeel-data?label=Total%20Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  </p>
+
 </div>
 
 ---
 
+<!-- About Section with Professional Layout -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 🚀 About Me
 
-As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
+> *"Data is the new oil, but insights are the refined fuel that powers innovation."*
+
+🎯 **Current Focus**: Building AI-powered analytics solutions and democratizing data literacy through hands-on education
+
+📊 **Expertise**: Advanced analytics, predictive modeling, and business intelligence with 3+ years of practical experience
+
+🎓 **Academic Journey**: Pursuing MBA in Business Data Analytics while bridging theory with real-world applications
+
+💡 **Mission**: Transforming complex datasets into actionable business strategies and mentoring the next generation of data professionals
+
+<br clear="right"/>
 
 ---
 
-### ⚙️ Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Prophet-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-</p>
-
----
-
-### 📊 Top Data & AI Projects
-
-| Project                                                                            | Key Technologies                                                                                                 |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `YouTube API`, `Hugging Face`, `Gemini AI`, `NumPy`, `Pandas`                                                    |
-| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                                     |
-| 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`, `Scikit-learn`                                                                    |
-| 🔐 **[Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)** | `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle API`                                                              |
-| 👤 **[Customer Segmentation](https://github.com/shakeel-data/customer-segmentation-clustering)**       | `Scikit-learn`, `KMeans Clustering`, `PCA`, `Jupyter Notebook`                                                   |
-| 📉 **[Customer Churn Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `SQL Server`, `Random Forest`, `Power BI`                                                                        |
-| 🛍️ **[Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)**             | `SQL`, `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`                                                     |
-
----
-
-### 💼 Professional Experience
-
-**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti | *Mar 2025 – Present*
-- Designed and delivered a hands-on Power BI curriculum to **50+ students**, covering data modeling, DAX, and advanced visualization.
-- Improved student data storytelling skills by over **60%** through project-based learning and real-time business use cases.
-- Introduced cutting-edge AI tools (Google AI Studio, Gamma) to spark curiosity in AI-powered productivity.
-
-**AR Process Executive** @ Omega Healthcare | *Sep 2024 – Mar 2025*
-- Ensured **HIPAA** compliance and reduced data verification errors by **15%** by validating insurance eligibility.
-- Streamlined prior authorization data pipelines, reducing processing delays by **20%**.
-- Enhanced reporting accuracy by **25%** through structured data validation in Excel.
+<!-- Advanced Skills Visualization -->
+<div align="center">
+  <h2>🛠️ Technical Arsenal</h2>
+  
+  <!-- Tech Stack Categories with Animations -->
+  
+  **💻 Core Technologies**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sql,postgresql&theme=dark" />
+  <br/><br/>
+  
+  **☁️ Cloud & Big Data**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=dark" />
+  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <br/><br/>
+  
+  **🤖 AI & Machine Learning**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <br/><br/>
+  
+  **📊 Visualization & BI**
+  <br/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+</div>
 
 ---
 
-### 📜 Certifications
+<!-- Interactive Project Showcase -->
+<h2 align="center">🎯 Featured Projects Portfolio</h2>
 
-<p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Machine%20Learning-006699?style=flat-square&logo=ibm&logoColor=white" alt="IBM Machine Learning"/>
+<div align="center">
+  
+  <!-- Project Cards with Enhanced Styling -->
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛒 Amazon Sales Forecasting</h3>
+        <div align="center">
+          <a href="https://github.com/shakeel-data/amazon-sales-forecasting" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=amazon-sales-forecasting&theme=tokyonight&hide_border=true" alt="Amazon Sales Forecasting"/>
+          </a>
+          <p><strong>Tech Stack:</strong> Python • BigQuery • Prophet • ML</p>
+          <p>End-to-end ML pipeline with 87% accuracy</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💬 YouTube Sentiment Analysis</h3>
+        <div align="center">
+          <a href="https://github.com/shakeel-data/youtube-sentiment-analysis" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=youtube-sentiment-analysis&theme=tokyonight&hide_border=true" alt="YouTube Sentiment Analysis"/>
+          </a>
+          <p><strong>Tech Stack:</strong> YouTube API • Hugging Face • Gemini AI</p>
+          <p>Real-time sentiment analysis with AI</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛢️ AWS Data Streaming</h3>
+        <div align="center">
+          <a href="https://github.com/shakeel-data/AWS-data-streaming-pipeline" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=AWS-data-streaming-pipeline&theme=tokyonight&hide_border=true" alt="AWS Data Pipeline"/>
+          </a>
+          <p><strong>Tech Stack:</strong> AWS • Kafka • Debezium • EC2</p>
+          <p>Scalable real-time data processing</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔐 Fraud Detection System</h3>
+        <div align="center">
+          <a href="https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakeel-data&repo=credit-card-fraud-deduction-predictive-models&theme=tokyonight&hide_border=true" alt="Fraud Detection"/>
+          </a>
+          <p><strong>Tech Stack:</strong> XGBoost • LightGBM • Deep Learning</p>
+          <p>Advanced ML for financial security</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- View All Projects Button -->
+  <a href="https://github.com/shakeel-data?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-🔍%20Explore%20All%20Projects-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B&color=FF6B6B"/>
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Database%20Engineer-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Database Engineer"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Power BI Analyst"/>
-  </a>
-</p>
+  
+</div>
 
 ---
 
-### 🎓 Education
+<!-- Professional Experience Timeline -->
+<h2 align="center">💼 Professional Journey</h2>
 
-**Master of Business Administration (MBA), Business Data Analytics**
-- *University of Madras, Chennai, India | Expected Graduation: June 2026*
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
-</p>
+<div align="center">
 
