@@ -51,52 +51,52 @@
 
 <div align="center">
 
-**🔋 Core Expertise**
-
+<!-- Animated Battery-Style Cards -->
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 <br/>
-<img src="https://img.shields.io/badge/████████████-95%25-3776AB?style=flat-square&logoColor=white" alt="Python 95%"/>
-<br/>**Python**
+<img src="https://progress-bar.dev/95/?scale=100&title=Python&width=160&color=3776AB" alt="Python Progress"/>
+<br/>
+<img src="https://img.shields.io/badge/🔋-Fully_Charged-00FF00?style=flat-square" alt="Expert Level"/>
 </td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+<td align="center" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
 <br/>
-<img src="https://img.shields.io/badge/████████████-95%25-F2C811?style=flat-square&logoColor=white" alt="Power BI 95%"/>
-<br/>**Power BI**
+<img src="https://progress-bar.dev/95/?scale=100&title=Power%20BI&width=160&color=F2C811" alt="Power BI Progress"/>
+<br/>
+<img src="https://img.shields.io/badge/🔋-Fully_Charged-00FF00?style=flat-square" alt="Expert Level"/>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
 <br/>
-<img src="https://img.shields.io/badge/████████-75%25-232F3E?style=flat-square&logoColor=white" alt="AWS 75%"/>
-<br/>**AWS**
+<img src="https://progress-bar.dev/75/?scale=100&title=AWS&width=160&color=232F3E" alt="AWS Progress"/>
+<br/>
+<img src="https://img.shields.io/badge/⚡-Charging-FFA500?style=flat-square" alt="Advanced Level"/>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 <br/>
-<img src="https://img.shields.io/badge/██████████-90%25-336791?style=flat-square&logoColor=white" alt="SQL 90%"/>
-<br/>**SQL**
+<img src="https://progress-bar.dev/90/?scale=100&title=SQL&width=160&color=336791" alt="SQL Progress"/>
+<br/>
+<img src="https://img.shields.io/badge/⚡-Charging-FFA500?style=flat-square" alt="Advanced Level"/>
 </td>
 </tr>
 </table>
 
-**⚡ Data Science & ML**
+**Additional Technologies**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/>
-
-**☁️ Cloud & Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" alt="GCP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="35" alt="Tableau"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
 
 </div>
+
 
 
 
