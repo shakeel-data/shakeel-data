@@ -33,7 +33,7 @@
 <!-- About Section -->
 <div align="center">
   <h2 style="color: #D83B01; font-family: 'Segoe UI', sans-serif;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=300&lines=About+Me;My+Story;Who+I+Am" alt="About"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=500&color=D83B01&center=true&vCenter=true&width=300&lines=About+Me;My+Story;Who+I+Am" alt="About"/>
   </h2>
 </div>
 
