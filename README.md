@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Elegant Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=42&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Shakeel+Ahamed;Data+Scientist+%7C+Business+Analyst+%7C+Data+Analyst;Transforming+Data+into+Insights" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=42&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Shakeel+Ahamed;Data+Scientist+%7C;Business+Analyst+%7C;Data+Analyst;Transforming+Data+into+Insights" alt="Typing Header" />
   
   <!-- Professional Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
