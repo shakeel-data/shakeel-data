@@ -51,51 +51,55 @@
 
 <div align="center">
 
-<!-- Animated Battery-Style Cards -->
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<br/>
-<img src="https://progress-bar.dev/95/?scale=100&title=Python&width=160&color=3776AB" alt="Python Progress"/>
-<br/>
-<img src="https://img.shields.io/badge/🔋-Fully_Charged-00FF00?style=flat-square" alt="Expert Level"/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<br/>**Python**
+<br/>![](https://img.shields.io/badge/-Expert-3776AB?style=flat-square)
 </td>
-<td align="center" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
-<br/>
-<img src="https://progress-bar.dev/95/?scale=100&title=Power%20BI&width=160&color=F2C811" alt="Power BI Progress"/>
-<br/>
-<img src="https://img.shields.io/badge/🔋-Fully_Charged-00FF00?style=flat-square" alt="Expert Level"/>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
+<br/>**Power BI**
+<br/>![](https://img.shields.io/badge/-Expert-F2C811?style=flat-square)
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+<br/>**AWS**
+<br/>![](https://img.shields.io/badge/-Advanced-232F3E?style=flat-square)
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+<br/>**SQL**
+<br/>![](https://img.shields.io/badge/-Advanced-336791?style=flat-square)
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
-<br/>
-<img src="https://progress-bar.dev/75/?scale=100&title=AWS&width=160&color=232F3E" alt="AWS Progress"/>
-<br/>
-<img src="https://img.shields.io/badge/⚡-Charging-FFA500?style=flat-square" alt="Advanced Level"/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+<br/>**Pandas**
+<br/>![](https://img.shields.io/badge/-Advanced-150458?style=flat-square)
 </td>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<br/>
-<img src="https://progress-bar.dev/90/?scale=100&title=SQL&width=160&color=336791" alt="SQL Progress"/>
-<br/>
-<img src="https://img.shields.io/badge/⚡-Charging-FFA500?style=flat-square" alt="Advanced Level"/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+<br/>**NumPy**
+<br/>![](https://img.shields.io/badge/-Advanced-013243?style=flat-square)
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+<br/>**scikit-learn**
+<br/>![](https://img.shields.io/badge/-Proficient-F7931E?style=flat-square)
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
+<br/>**PyTorch**
+<br/>![](https://img.shields.io/badge/-Proficient-EE4C2C?style=flat-square)
 </td>
 </tr>
 </table>
 
-**Additional Technologies**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-
 </div>
+
 
 
 
