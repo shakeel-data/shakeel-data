@@ -51,54 +51,53 @@
 
 <div align="center">
 
+**🔋 Core Expertise**
+
 <table>
 <tr>
-<td>
-
-**🐍 Data Science**
-Python ████████████ 95%
-Pandas ███████████ 90%
-NumPy ███████████ 90%
-scikit-learn ██████████ 85%
-
-
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/████████████-95%25-3776AB?style=flat-square&logoColor=white" alt="Python 95%"/>
+<br/>**Python**
 </td>
-<td>
-
-**🧠 Machine Learning**
-PyTorch ████████ 80%
-TensorFlow ███████ 75%
-Prophet ████████ 80%
-XGBoost ████████ 80%
-
-
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/████████████-95%25-F2C811?style=flat-square&logoColor=white" alt="Power BI 95%"/>
+<br/>**Power BI**
 </td>
-</tr>
-<tr>
-<td>
-
-**☁️ Cloud Platforms**
-AWS ███████ 75%
-Google Cloud ████████ 80%
-BigQuery ████████ 80%
-Docker ███████ 75%
-
-
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/████████-75%25-232F3E?style=flat-square&logoColor=white" alt="AWS 75%"/>
+<br/>**AWS**
 </td>
-<td>
-
-**📊 Visualization**
-Power BI ████████████ 95%
-Tableau ██████████ 85%
-Plotly ████████ 80%
-Seaborn ████████ 80%
-
-
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/██████████-90%25-336791?style=flat-square&logoColor=white" alt="SQL 90%"/>
+<br/>**SQL**
 </td>
 </tr>
 </table>
 
+**⚡ Data Science & ML**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/>
+
+**☁️ Cloud & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" alt="GCP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="35" alt="Tableau"/>
+
 </div>
+
 
 
 
