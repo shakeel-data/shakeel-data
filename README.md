@@ -49,14 +49,12 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini AI`, `TensorFlow`, `YouTube API`, `Hugging Face`                                                    |
 | 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `BigQuery`, `Python`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
-| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                                     |
-| 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`, `Scikit-learn`                                                                    |
-| 🔐 **[Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)** | `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle API`                                                              |
+| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                         
+| 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`, `Scikit-learn`                                                
+| 🔐 **[Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)** | `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle API`                                       
 | 👤 **[Customer Segmentation](https://github.com/shakeel-data/customer-segmentation-clustering)**       | `KMeans Clustering`, `PCA`                                              
-                              |
-| 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `SQL Server`, `Random Forest`, `Power BI`                                                                                        |
+| 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `SQL Server`, `Random Forest`, `Power BI`                                                   
 | 🛍️ **[Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)**             | `PostgreSQL`, `Python`                                                   
-                                            |
 
 ---
 
