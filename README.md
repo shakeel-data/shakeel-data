@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://shakeel-data.github.io/" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigCoN68E8XpwaNCVWnJBF1eOWJXQwR0bu8Q&sstyle=for-the-badge&logo=coursera&logoColor=white" alt="Portfolio"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigCoN68E8XpwaNCVWnJBF1eOWJXQwR0bu8Q&s" alt="Portfolio"/>
     </a>
   </p>
 </div>
