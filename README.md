@@ -10,8 +10,8 @@
     <a href="mailto:shakeelahamed6618@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://www.coursera.org/learner/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+    <a href="https://shakeel-data.github.io/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigCoN68E8XpwaNCVWnJBF1eOWJXQwR0bu8Q&sstyle=for-the-badge&logo=coursera&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
