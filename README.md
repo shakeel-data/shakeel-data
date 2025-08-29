@@ -47,7 +47,8 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 | Project                                                                            | Key Technologies                                                                                                 |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `YouTube API`, `Hugging Face`, `Gemini AI`, `NumPy`, `Pandas`                                                    |
+| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini AI`, `TensorFlow`, `YouTube API`, `Hugging Face`                                                    |
+| 📦 **[Data-Driven Amazon Sales Forecasting & Insights](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `BigQuery`, `Python`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
 | 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                                     |
 | 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`, `Scikit-learn`                                                                    |
 | 🔐 **[Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)** | `XGBoost`, `LightGBM`, `Google Colab`, `Kaggle API`                                                              |
