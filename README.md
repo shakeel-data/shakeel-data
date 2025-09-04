@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm Shakeel Ahamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
   <p align="center">
     A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
-  </p>
+  </p> 
   <p align="center">
     <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
