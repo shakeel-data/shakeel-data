@@ -83,11 +83,11 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ### 📜 Certifications  
 
-<p align="center">
+<p align="left">
 
   <!-- IBM -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://cdn.simpleicons.org/ibm/006699" alt="IBM" width="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="35"/>
     <br>
     <sub><b>Machine Learning</b></sub>
   </a> &nbsp;&nbsp;&nbsp;
@@ -101,7 +101,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
   <!-- Microsoft -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft" width="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="35"/>
     <br>
     <sub><b>Power BI Analyst</b></sub>
   </a>
