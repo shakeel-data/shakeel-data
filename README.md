@@ -87,26 +87,27 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
   <!-- IBM -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="80"/>
+    <img src="https://cdn.simpleicons.org/ibm/006699" alt="IBM" width="35"/>
     <br>
     <sub><b>Machine Learning</b></sub>
   </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Meta -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" alt="Meta" width="80"/>
+    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="35"/>
     <br>
     <sub><b>Database Engineer</b></sub>
   </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Microsoft -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="80"/>
+    <img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft" width="35"/>
     <br>
     <sub><b>Power BI Analyst</b></sub>
   </a>
 
 </p>
+
 
 
 
