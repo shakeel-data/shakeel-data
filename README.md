@@ -83,38 +83,26 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ### 📜 Certifications  
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="28"/>
-    </td>
-    <td>
-      <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-        <b>IBM – Machine Learning</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="40">
-      <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="28"/>
-    </td>
-    <td>
-      <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-        <b>Meta – Database Engineer</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="40">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28"/>
-    </td>
-    <td>
-      <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-        <b>Microsoft – Power BI Analyst</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="28" style="vertical-align:middle;"/>
+    <span><b> IBM – Machine Learning</b></span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
+    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="28" style="vertical-align:middle;"/>
+    <span><b> Meta – Database Engineer</b></span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28" style="vertical-align:middle;"/>
+    <span><b> Microsoft – Power BI Analyst</b></span>
+  </a>
+</p>
 
 
 
