@@ -112,7 +112,8 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=flat&no-frame=true&margin-w=4" alt="Trophies"/>
 </p>
+
 
 
