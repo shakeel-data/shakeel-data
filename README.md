@@ -85,15 +85,16 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Machine%20Learning-006699?style=flat-square&logo=ibm&logoColor=white" alt="IBM Machine Learning"/>
+    <img src="https://img.shields.io/badge/IBM-Machine%20Learning-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Database%20Engineer-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Database Engineer"/>
+    <img src="https://img.shields.io/badge/Meta-Database%20Engineer-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Database Engineer"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Power BI Analyst"/>
+    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Power BI Analyst"/>
   </a>
 </p>
+
 
 ---
 
@@ -112,8 +113,9 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
+
 
 
 
