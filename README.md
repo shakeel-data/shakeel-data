@@ -15,21 +15,10 @@
   <a href="https://shakeel-data.github.io/" target="_blank">
   <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" 
        alt="Portfolio" 
-       width="60" 
-       height="60" 
+       width="40" 
+       height=45"" 
        style="border-radius:50%; object-fit:cover; display:inline-block;"/>
 </a>
-
-<a href="https://shakeel-data.github.io/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/155353133?v=4" 
-       alt="Portfolio" 
-       width="60" 
-       height="60" 
-       style="border-radius:50%;"/>
-</a>
-
-
-
 
   </p>
 
