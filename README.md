@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://shakeel-data.github.io/" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigCoN68E8XpwaNCVWnJBF1eOWJXQwR0bu8Q&s" alt="Portfolio" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/>
+      <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" alt="Portfolio" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/>
     </a>
   </p>
 
