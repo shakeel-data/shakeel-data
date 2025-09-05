@@ -52,18 +52,30 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ---
 
-### 📊 Top Data & AI Projects
+### 📊 Top Data & AI Projects  
 
-| Project                                                                            | Key Technologies                                                                                                 |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`                      
-| 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `BigQuery`, `Python`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
-| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
-| 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`                                                      
-| 🔐 **[Credit Card Fraud Detection](https://github.com/shakeel-data/credit-card-fraud-deduction-predictive-models)** | `XGBoost`, `LightGBM`, `Python`                                       
-| 👤 **[Customer Segmentation](https://github.com/shakeel-data/customer-segmentation-clustering)**       | `KMeans`, `PCA`                                              
-| 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `SQL Server`, `Random Forest`, `Power BI`                                                   
-| 🛍️ **[Walmart Sales Analysis](https://github.com/shakeel-data/walmart-analysis-sql-python)**             | `PostgreSQL`, `Python`, `KaggleAPI`                                               
+<p align="left">
+
+  🚀 <b><a href="https://github.com/shakeel-data/youtube-sentiment-analysis" target="_blank">YouTube Comment Sentiment Analysis</a></b>  
+  <img src="https://img.shields.io/badge/Tech-Gemini%20API-blue"/> 
+  <img src="https://img.shields.io/badge/Tech-TensorFlow-orange"/> 
+  <img src="https://img.shields.io/badge/Tech-HuggingFace-yellow"/>  
+  <br><br>
+
+  📦 <b><a href="https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml" target="_blank">Amazon Sales Forecasting</a></b>  
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LightGBM-green"/> 
+  <img src="https://img.shields.io/badge/Prophet-black"/>  
+  <br><br>
+
+  🛢️ <b><a href="https://github.com/shakeel-data/AWS-data-streaming-pipeline" target="_blank">AWS Data Streaming Pipeline</a></b>  
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Debezium-4479A1"/>  
+  <br><br>
+
+</p>
 
 ---
 
