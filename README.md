@@ -79,7 +79,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 - Improved student data storytelling skills by over **60%** through project-based learning and real-time business use cases.
 - Introduced cutting-edge AI tools (Google AI Studio, Gamma) to spark curiosity in AI-powered productivity.
 
-**AR Process Executive** @ Omega Healthcare | *Sep 2024 – Mar 2025*
+**AR Process Executive (Full-time)** @ Omega Healthcare | *Sep 2024 – Mar 2025*
 - Ensured **HIPAA** compliance and reduced data verification errors by **15%** by validating insurance eligibility.
 - Streamlined prior authorization data pipelines, reducing processing delays by **20%**.
 - Enhanced reporting accuracy by **25%** through structured data validation in Excel.
