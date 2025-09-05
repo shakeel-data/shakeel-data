@@ -18,9 +18,10 @@
   </p>
 
   <!-- Profile Views Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>
+
 </div>
 
 
