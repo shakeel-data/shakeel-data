@@ -16,7 +16,7 @@
   <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" 
        alt="Portfolio" 
        width="40" 
-       height=45"" 
+       height=30"" 
        style="border-radius:50%; object-fit:cover; display:inline-block;"/>
 </a>
 
