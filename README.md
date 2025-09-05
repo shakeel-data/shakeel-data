@@ -83,27 +83,34 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ### 📜 Certifications  
 
-<div align="center">
+<div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
 
   <!-- IBM -->
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="100"/>
-    <p><b>Machine Learning</b></p>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #e1e4e8; border-radius: 12px; padding: 15px; width: 180px; text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="100"/>
+      <p><b>Machine Learning</b></p>
+    </div>
   </a>
 
   <!-- Meta -->
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_f_logo_%282019%29.svg" alt="Meta" width="100"/>
-    <p><b>Database Engineer</b></p>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #e1e4e8; border-radius: 12px; padding: 15px; width: 180px; text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_f_logo_%282019%29.svg" alt="Meta" width="80"/>
+      <p><b>Database Engineer</b></p>
+    </div>
   </a>
 
   <!-- Microsoft -->
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="100"/>
-    <p><b>Power BI Analyst</b></p>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #e1e4e8; border-radius: 12px; padding: 15px; width: 180px; text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="100"/>
+      <p><b>Power BI Analyst</b></p>
+    </div>
   </a>
 
 </div>
+
 
 
 
