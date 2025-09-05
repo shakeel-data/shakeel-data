@@ -81,26 +81,30 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications  
 
 <div align="center">
 
   <!-- IBM -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Machine%20Learning-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="100"/>
+    <p><b>Machine Learning</b></p>
   </a>
 
   <!-- Meta -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Database%20Engineer-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Database Engineer"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_f_logo_%282019%29.svg" alt="Meta" width="100"/>
+    <p><b>Database Engineer</b></p>
   </a>
 
   <!-- Microsoft -->
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Power BI Analyst"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="100"/>
+    <p><b>Power BI Analyst</b></p>
   </a>
 
 </div>
+
 
 
 ---
