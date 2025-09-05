@@ -74,6 +74,10 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
   <img src="https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Debezium-4479A1"/>  
   <br><br>
+### 🚀 Featured Project  
+
+[![Churn Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard/raw/main/preview.png)](https://github.com/shakeel-data/churn-prediction-dashboard)  
+🔑 Tech: SQL Server • Random Forest • Power BI
 
 </p>
 
