@@ -85,7 +85,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="45" style="vertical-align:middle;"/>
     <span><b> IBM Machine Learning Professional</b></span>
   </a>
 </p>
