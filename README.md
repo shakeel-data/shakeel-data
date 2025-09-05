@@ -12,9 +12,14 @@
     <a href="mailto:shakeelahamed6618@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://shakeel-data.github.io/" target="_blank">
-      <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" alt="Portfolio" width="40" height="45" style="border-radius: 50%; vertical-align: middle;"/>
-    </a>
+   <a href="https://shakeel-data.github.io/" target="_blank">
+  <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" 
+       alt="Portfolio" 
+       width="50" 
+       height="50" 
+       style="border-radius: 50%; object-fit: cover; vertical-align: middle;"/>
+</a>
+
   </p>
 
   <!-- Profile Views Badge -->
