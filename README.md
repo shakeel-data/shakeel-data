@@ -20,6 +20,7 @@
 ### 🚀 About Me
 
 As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
+![Profile Views](https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 ---
 
