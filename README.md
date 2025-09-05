@@ -1,5 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Shakeel Ahamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
+  <h1 align="center">Hi there, I'm Shakeel Ahamed 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  </h1>
   <p align="center">
     A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
   </p> 
@@ -14,13 +16,18 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigCoN68E8XpwaNCVWnJBF1eOWJXQwR0bu8Q&s" alt="Portfolio" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/>
     </a>
   </p>
+
+  <!-- Profile Views Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </p>
 </div>
+
 
 
 ### 🚀 About Me
 
 As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
-![Profile Views](https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 ---
 
