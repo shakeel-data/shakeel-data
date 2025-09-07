@@ -108,7 +108,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28" style="vertical-align:middle;"/>
-    <span><b> Microsoft Power BI Analyst Professional</b></span>
+    <span><b> Microsoft Power BI Data Analyst Professional</b></span>
   </a>
 </p>
 
