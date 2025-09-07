@@ -84,6 +84,12 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 ---
 
 ### 📜 Certifications  
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1759968000&v=beta&t=jnIPgQh2pNFZqcdjrYShazVuIbOZFNPBN3SVS0xecUI" alt="Google" width="45" style="vertical-align:middle;"/>
+    <span><b> Google AI Essentials </b></span>
+  </a>
+</p>
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" rel="noopener noreferrer">
