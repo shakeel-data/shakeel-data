@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Shakeel Ahamed 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  </h1>
+  </h1> 
   <p align="center"> 
     A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
   </p> 
