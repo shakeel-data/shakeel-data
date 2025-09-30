@@ -110,7 +110,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28" style="vertical-align:middle;"/>
     <span><b> Microsoft Power BI Data Analyst Professional</b></span>
   </a>
-</p>
+</p> 
 
 ---
 
