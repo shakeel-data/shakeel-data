@@ -61,7 +61,8 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 | Project                                                                            | Key Technologies                                                                                                 |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`                      
+| 💬 **[GenAI Data Science Agent with GPU Acceleration](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Python`, `NVIDIA NeMo`, `RAPIDS cuDF/cuML`, `TensorFlow`, `PyTorch`, `XGBoost`, `LightGBM`, `CatBoost`, `K-Means`, `SHAP`, `LIME`, `Streamlit`
+| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`   
 | 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `BigQuery`, `Python`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
 | 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
 | 🎗 **[Breast Cancer Prediction](https://github.com/shakeel-data/Breast-cancer-prediction-neural-network-pytorch)** | `Neural Networks`, `PyTorch`                                                      
