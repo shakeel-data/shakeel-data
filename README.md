@@ -37,7 +37,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ---
 
-### ⚙️ Technical Skills
+### ⚙️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python"/>
