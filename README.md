@@ -41,7 +41,6 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python"/> 
-  <img src="https://img.shields.io/badge/GPU%20Accelerated-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NeMo"/> 
   <img src="https://img.shields.io/badge/RAPIDS-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RAPIDS"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
