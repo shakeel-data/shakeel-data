@@ -121,7 +121,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 **Master of Business Administration (MBA), Business Data Analytics**
 - *University of Madras, Chennai, India | Expected Graduation: June 2026*
-
+ 
 ---
 
 ### 📈 GitHub Activity
