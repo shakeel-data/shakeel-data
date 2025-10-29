@@ -74,7 +74,7 @@ As a Power BI Trainer and an MBA candidate in Business Data Analytics, I thrive 
 
 ### 💼 Professional Experience
 
-**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation, Chennai | *Mar 2025 – Present*
+**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation, Chennai | *Mar 2025 – Jun 2025*
 - Designed and delivered a hands-on Power BI curriculum to **50+ students**, covering data modeling, DAX, and advanced visualization.
 - Improved student data storytelling skills by over **60%** through project-based learning and real-time business use cases.
 - Introduced cutting-edge AI tools (Google AI Studio, Gamma) to spark curiosity in AI-powered productivity.
