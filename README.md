@@ -75,19 +75,19 @@ Data & Analytical professional thrive at the intersection of data, business, and
 ### 💼 Professional Experience
 
 **Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | Chennai, India (Mar 2025 – June 2025)
-• Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
-• Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
-• Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
+- Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
+- Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
+- Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
 
 **AR Process Analyst (Full-time)** @ Omega Healthcare | Chennai, India (Sep 2024 – Mar 2025)
-• Verified insurance eligibility reducing errors by **15%** and improving process efficiency
-• Enhanced authorization turnaround time by **20%** through streamlined coordination
-• Maintained **100%** data integrity, enhancing reporting accuracy by **25%.**
+- Verified insurance eligibility reducing errors by **15%** and improving process efficiency
+- Enhanced authorization turnaround time by **20%** through streamlined coordination
+- Maintained **100%** data integrity, enhancing reporting accuracy by **25%.**
 
 **Academic Internship** @ Chennai Port Authority | Chennai, India (Jan 2024 – Feb 2024)
-• Observed port operations and cargo workflows, understanding end-to-end logistics for **100+** daily shipments.
-• Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
-• Gained exposure to import/export paperwork, regulatory compliance, and customs/security processes affecting **50+** shipments weekly.
+- Observed port operations and cargo workflows, understanding end-to-end logistics for **100+** daily shipments.
+- Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
+- Gained exposure to import/export paperwork, regulatory compliance, and customs/security processes affecting **50+** shipments weekly.
 
 ---
 
@@ -124,7 +124,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### 🎓 Education
 
-**Master of Business Administration (MBA), Business Data Analytics**//
+**Master of Business Administration (MBA), Business Data Analytics**\\
 University of Madras, Chennai, India | Expected Graduation: June 2026
  
 ---
