@@ -31,13 +31,13 @@
 
 
 
-### 🚀 About Me
+## 🚀 About Me
 
 Data & Analytical professional thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
 
 ---
 
-### ⚙️ Skills
+## ⚙️ Skills
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python"/> 
@@ -60,7 +60,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ---
 
-### 📊 Top Data & AI Projects
+## 📊 Top Data & AI Projects
 
 | Project                                                                            | Key Technologies                                                                                                 |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -72,28 +72,28 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
-**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | 
+### Power BI Trainer (Freelance) @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | 
 
-Chennai, India (Mar 2025 – June 2025)
+### Chennai, India (Mar 2025 – June 2025)
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
 
-**AR Process Analyst (Full-time)** @ Omega Healthcare | Chennai, India (Sep 2024 – Mar 2025)
+### AR Process Analyst (Full-time) @ Omega Healthcare | Chennai, India (Sep 2024 – Mar 2025)
 - Verified insurance eligibility reducing errors by **15%** and improving process efficiency
 - Enhanced authorization turnaround time by **20%** through streamlined coordination
 - Maintained **100%** data integrity, enhancing reporting accuracy by **25%.**
 
-**Academic Internship** @ Chennai Port Authority | Chennai, India (Jan 2024 – Feb 2024)
+### Academic Internship @ Chennai Port Authority | Chennai, India (Jan 2024 – Feb 2024)
 - Observed port operations and cargo workflows, understanding end-to-end logistics for **100+** daily shipments.
 - Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
 - Gained exposure to import/export paperwork, regulatory compliance, and customs/security processes affecting **50+** shipments weekly.
 
 ---
 
-### 📜 Certifications  
+## 📜 Certifications  
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
      <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="35" style="vertical-align:middle;"/>
@@ -124,19 +124,19 @@ Chennai, India (Mar 2025 – June 2025)
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-#### MBA, Business Data Analytics
+### MBA, Business Data Analytics
 
-University of Madras, Chennai, India | Expected Graduation: June 2026
+University of Madras (Distance), Chennai, India | Expected Graduation: June 2026
 
-#### B.com, Corporate Secretaryship
+### BCom, Corporate Secretaryship
 
 The New College, Chennai, India | Completed: May 2024
  
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats"/>
@@ -146,13 +146,5 @@ The New College, Chennai, India | Completed: May 2024
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
-
-
-
-
-
-
-
-
 
 
