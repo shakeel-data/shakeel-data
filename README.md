@@ -124,7 +124,8 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### 🎓 Education
 
-**Master of Business Administration (MBA), Business Data Analytics**\\
+**Master of Business Administration (MBA), Business Data Analytics**
+
 University of Madras, Chennai, India | Expected Graduation: June 2026
  
 ---
