@@ -124,16 +124,23 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ## 🎓 Education
 
-### MBA, Business Data Analytics
+### MBA in Business Data Analytics
 
 University of Madras (Distance), Chennai, India | Expected Graduation: Jun 2026
 
-### BCom, Corporate Secretaryship
+### BCom in Corporate Secretaryship
 
 The New College, Chennai, India | Completed: May 2024
  
 ---
 
+## ⭐ Other Experience
+
+### Volunteer @ Agaram Foundation | Chennai, India (Since 2022)
+### Personal Tutor for School & College Students @ OneMaster Learning Hub | Chennai, India (Since 2021)
+
+ 
+---
 ## 📈 GitHub Activity
 
 <p align="center">
