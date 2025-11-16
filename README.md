@@ -74,7 +74,8 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### 💼 Professional Experience
 
-**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | Chennai, India (Mar 2025 – June 2025)
+**Power BI Trainer (Freelance)** @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | 
+Chennai, India (Mar 2025 – June 2025)
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
@@ -124,7 +125,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### 🎓 Education
 
-**Master of Business Administration (MBA), Business Data Analytics**
+#### Master of Business Administration (MBA), Business Data Analytics
 
 University of Madras, Chennai, India | Expected Graduation: June 2026
  
