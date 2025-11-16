@@ -74,7 +74,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ## 💼 Professional Experience
 
-### Power BI Trainer (Freelance) @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | Chennai, India (Mar 2025 – June 2025)
+### Power BI Trainer (Freelance) @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | Chennai, India (Mar 2025 – Jun 2025)
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
@@ -94,7 +94,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 ## 📜 Certifications  
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
-     <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="35" style="vertical-align:middle;"/>
+     <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="30" style="vertical-align:middle;"/>
     <span><b> Google AI Essentials </b></span>
   </a>
 </p>  
@@ -126,7 +126,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### MBA, Business Data Analytics
 
-University of Madras (Distance), Chennai, India | Expected Graduation: June 2026
+University of Madras (Distance), Chennai, India | Expected Graduation: Jun 2026
 
 ### BCom, Corporate Secretaryship
 
