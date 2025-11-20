@@ -138,7 +138,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 - Coordinating **10+** education programs and workshops, improving student engagement and smooth execution of foundation activities.
 - Supporting content delivery, material distribution, and progress tracking that contributed to a **15–20%** improvement in readiness for exams.
   
-### Personal Tutor @ OneMaster Learning Hub <img src="https://img.shields.io/badge/Tutor-92400E?style=flat&logoColor=white" />
+### Personal Tutor @ OneMaster Learning Hub <img src="https://img.shields.io/badge/Tutor-F97316?style=flat&logoColor=white" />
 *Chennai, India (Since 2021)*
 - Tutored **20+** school and college students in Math, Computer Science, English, and Commerce with a personalized **1:1** approach.
 - Created simple lesson plans and weekly tests that improved student understanding and exam performance by **20–40%**.
