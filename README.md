@@ -76,13 +76,13 @@ Data & Analytical professional thrive at the intersection of data, business, and
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
 
-### AR Process Analyst @ Omega Healthcare <img src="https://img.shields.io/badge/Full-time-FF0000?style=flat&logoColor=white" />
+### AR Process Analyst @ Omega Healthcare <img src="https://img.shields.io/badge/Full--time-FF0000?style=flat&logoColor=white" />
 *Chennai, India (Sep 2024 – Mar 2025)*
 - Verified insurance eligibility reducing errors by **15%** and improving process efficiency
 - Enhanced authorization turnaround time by **20%** through streamlined coordination
 - Maintained **100%** data integrity, enhancing reporting accuracy by **25%.**
 
-### Academic Internship @ Chennai Port Authority
+### Academic Internship @ Chennai Port Authority <img src="https://img.shields.io/badge/Internship-1E3A8A?style=flat&logoColor=white" />
 *Chennai, India (Jan 2024 – Feb 2024)*
 - Observed port operations and cargo workflows, understanding end-to-end logistics for **100+** daily shipments.
 - Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
@@ -132,13 +132,13 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ## ⭐ Other Experience
 
-### Volunteer @ Agaram Foundation
+### Volunteer @ Agaram Foundation <img src="https://img.shields.io/badge/Volunteer-6A00FF?style=flat&logoColor=white" />
 *Chennai, India (Since 2022)*
 - Mentoring and guiding **50+** underprivileged students through academic support, helping boost learning participation by **30%**.
 - Coordinating **10+** education programs and workshops, improving student engagement and smooth execution of foundation activities.
 - Supporting content delivery, material distribution, and progress tracking that contributed to a **15–20%** improvement in readiness for exams.
   
-### Personal Tutor for School & College Students @ OneMaster Learning Hub
+### Personal Tutor for School & College Students @ OneMaster Learning Hub <img src="https://img.shields.io/badge/Tutor-7B3F00?style=flat&logoColor=white" />
 *Chennai, India (Since 2021)*
 - Tutored **20+** school and college students in Math, Computer Science, English, and Commerce with a personalized **1:1** approach.
 - Created simple lesson plans and weekly tests that improved student understanding and exam performance by **20–40%**.
