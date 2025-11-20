@@ -129,12 +129,14 @@ The New College, Chennai, India | Completed: May 2024
 
 ## ⭐ Other Experience
 
-### Volunteer @ Agaram Foundation | Chennai, India (Since 2022)
+### Volunteer @ Agaram Foundation
+*Chennai, India (Since 2022)*
 - Mentoring and guiding **50+** underprivileged students through academic support, helping boost learning participation by **30%**.
 - Coordinating **10+** education programs and workshops, improving student engagement and smooth execution of foundation activities.
 - Supporting content delivery, material distribution, and progress tracking that contributed to a **15–20%** improvement in readiness for exams.
   
-### Personal Tutor for School & College Students @ OneMaster Learning Hub | Chennai, India (Since 2021)
+### Personal Tutor for School & College Students @ OneMaster Learning Hub
+*Chennai, India (Since 2021)*
 - Tutored **20+** school and college students in Math, Computer Science, English, and Commerce with a personalized **1:1** approach.
 - Created simple lesson plans and weekly tests that improved student understanding and exam performance by **20–40%**.
 - Helped learners build confidence, discipline, and clarity in career paths, with **90%+** students reporting strong academic progress.
