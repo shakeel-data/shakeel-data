@@ -118,6 +118,13 @@ Data & Analytical professional thrive at the intersection of data, business, and
   </a>
 </p> 
 
+<p align="left">
+  <a href="https://certx.in/certificate/08982a60-ee18-43e4-9061-8f0dc40fd449297718" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.linkedin.com/company/101974534/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqZx5dXHgR4aV3aHsiVXEWQ%3D%3D" alt="Microsoft" width="28" style="vertical-align:middle;"/>
+    <span><b> Python using AI Certificate</b></span>
+  </a>
+</p> 
+
 
 ## 🎓 Education
 
