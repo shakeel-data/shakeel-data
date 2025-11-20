@@ -126,20 +126,11 @@ I’m always learning and exploring new tools, especially in AI and emerging tec
   </a>
 </p> 
 
-<p align="left">
-  <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEBNy7p5-5m-Q/profile-treasury-document-cover-images_480/B4EZUB_BrnHUA4-/0/1739495058380?e=1764270000&v=beta&t=vm1P3HX-xJH523Fn5FzvK9CTKmpbxRB57GKPfaX62L4" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGYQB0W2zliFg/company-logo_100_100/company-logo_100_100/0/1631328732272?e=1765411200&v=beta&t=8_r9nOP8LuakL4RpbuQ-YOtxKDUB3X4VpczttdPhIBU" alt="ExcelGoodies" width="28" style="vertical-align:middle;"/>
-    <span><b> MIS Reporting & Business Modeling Specialist Using MS-Excel Certificate</b></span>
-  </a>
-</p>  
-
 ## 🎓 Education
 ### MBA in Business Data Analytics @ University of Madras (Distance)
-
 *Chennai, India (Expected Graduation: Jun 2026)*
 
 ### BCom in Corporate Secretaryship @ The New College
-
 *Chennai, India (Completed: May 2024)*
  
 
