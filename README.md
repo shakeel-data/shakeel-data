@@ -1,115 +1,98 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/PLACEHOLDER_FOR_YOUR_GENAI_BANNER.jpg" width="100%" style="border-radius: 10px;" alt="GenAI Data Agent Banner" />
+# Shakeel Ahamed
 
-  <br/>
+Data Scientist & Business Analyst transforming data into actionable insights and scalable solutions.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shakeel+Ahamed;Data+Scientist+%26+Business+Analyst;Building+GenAI+Agents+%26+Scalable+Solutions" alt="Typing SVG" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel-data)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shakeelahamed6618@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shakeel-data-portfolio.netlify.app/)
 
-  <p align="center">
-    <em>Transforming raw data into autonomous insights and scalable solutions.</em>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25" />
-    </a>
-    <a href="mailto:shakeelahamed6618@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" />
-    </a>
-    <a href="https://shakeel-data-portfolio.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="25" />
-    </a>
-  </p>
-  
 </div>
 
 ---
 
-## 🚀 &nbsp; **About Me**
-> **Data & Analytical Professional** thriving at the intersection of business, data, and AI.
+## About
 
-My focus is on building hands-on, project-based solutions that solve complex problems. I am currently developing **GenAI Autonomous Agents** and leveraging **GPU-accelerated computing** (NVIDIA NeMo/RAPIDS) to drive innovation. I am committed to empowering organizations to become more data-literate through actionable intelligence.
+Data & analytics professional at the intersection of data, business, and technology. I build hands-on, project-based solutions that solve complex problems and empower data-driven decision making. Passionate about continuous learning and leveraging AI to drive innovation[memory:1].
+
+## Skills
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=flat&logo=nvidia&logoColor=white)
+
+**Visualization & Cloud**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+## Featured Projects
+
+| Project | Technologies |
+|---------|-------------|
+| [GenAI Data Science Agent with GPU Acceleration](https://github.com/shakeel-data/genai-autonomous-data-agent) | Python · NVIDIA NeMo · RAPIDS · TensorFlow · PyTorch · XGBoost |
+| [YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis) | Python · Gemini API · TensorFlow · Hugging Face |
+| [Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml) | Python · BigQuery · LightGBM · Prophet |
+| [AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline) | Amazon RDS · S3 · MSK · Apache Kafka · Debezium |
+| [Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard) | Python · SQL Server · Random Forest · Power BI |
+
+## Experience
+
+**Power BI Trainer (Freelance)**  
+*DBVTMF Smart-Broadway · Chennai, India · Mar 2025 – Jun 2025*
+
+Delivered hands-on Power BI training to 50+ students, achieving 97% satisfaction and 100% completion rate with project-based curriculum[memory:2].
+
+**AR Process Analyst**  
+*Omega Healthcare · Chennai, India · Sep 2024 – Mar 2025*
+
+Enhanced authorization turnaround time by 20% through streamlined coordination and maintained 100% data integrity.
+
+**Academic Intern**  
+*Chennai Port Authority · Chennai, India · Jan 2024 – Feb 2024*
+
+Observed port operations and logistics workflows, gaining exposure to import/export processes affecting 50+ shipments weekly.
+
+## Education
+
+**MBA in Business Data Analytics**  
+*University of Madras (Distance) · Expected Jun 2026*
+
+**BCom in Corporate Secretaryship**  
+*The New College, Chennai · Completed May 2024*
+
+## Certifications
+
+- [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY)
+- [IBM Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8)
+- [Meta Database Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ)
+- [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ)
+
+## Community
+
+**Volunteer · Agaram Foundation** (Since 2022)  
+Mentoring 50+ underprivileged students, improving learning participation by 30% through academic support and education programs.
+
+**Personal Tutor · OneMaster Learning Hub** (Since 2021)  
+Tutored 20+ students in Math, CS, English, and Commerce with personalized 1:1 approach, improving exam performance by 20-40%.
 
 ---
-
-## ⚡ &nbsp; **Tech Stack**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,mysql,postgres&theme=light" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,kafka,powerbi,tableau,vscode,github,git,streamlit,jupyter&theme=light" />
-  </a>
-</div>
-
----
-
-## 📊 &nbsp; **Selected Projects**
-
-| Project | Key Tech | Impact |
-| :--- | :--- | :--- |
-| ⚡ **[GenAI Data Agent](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `NVIDIA NeMo` `RAPIDS` `LLMs` | Autonomous agent with GPU acceleration for complex data tasks. |
-| 💬 **[YouTube Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Gemini API` `Transformers` | analyze viewer sentiment using Google's Gemini & Hugging Face. |
-| 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `BigQuery` `Prophet` `LightGBM` | Predictive modeling for inventory and sales trends. |
-| 🛢️ **[AWS Data Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)** | `Kafka` `S3` `EC2` `Debezium` | Real-time data streaming architecture implementation. |
-| 📉 **[Churn Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)** | `SQL` `Power BI` `Random Forest` | Actionable dashboard to predict and reduce customer churn. |
-
----
-
-## 💼 &nbsp; **Professional Experience**
-
-#### **Power BI Trainer (Freelance)** @ DBVTMF | *Chennai, India (Mar 2025 – Jun 2025)*
-- Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%**.
-- Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
-- Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
-
-#### **AR Process Analyst** @ Omega Healthcare | *Chennai, India (Sep 2024 – Mar 2025)*
-- Verified insurance eligibility reducing errors by **15%** and improving process efficiency.
-- Enhanced authorization turnaround time by **20%** through streamlined coordination.
-- Maintained **100%** data integrity, enhancing reporting accuracy by **25%**.
-
-#### **Academic Intern** @ Chennai Port Authority | *Chennai, India (Jan 2024 – Feb 2024)*
-- Analyzed logistics for **100+** daily shipments and understood end-to-end cargo workflows.
-- Supported financial documentation for **3** key port units and regulatory compliance.
-
----
-
-## 🤝 &nbsp; **Volunteering & Teaching**
-
-#### **Volunteer** @ Agaram Foundation | *(Since 2022)*
-- Mentoring **50+** underprivileged students, boosting learning participation by **30%**.
-- Coordinated **10+** workshops and education programs.
-
-#### **Personal Tutor** @ OneMaster Learning Hub | *(Since 2021)*
-- Tutored **20+** students in CS and Math; improved exam performance by **20–40%**.
-- Personalized 1:1 approach with a 90%+ reported progress rate.
-
----
-
-## 🎓 &nbsp; **Education & Certifications**
-
-### **Education**
-* **MBA in Business Data Analytics** | University of Madras *(Expected 2026)*
-* **BCom in Corporate Secretaryship** | The New College *(Completed 2024)*
-
-### **Certifications**
-| | Certification | Issuer |
-|:---:|:---|:---|
-| 🤖 | **Google AI Essentials** | [Coursera](https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY) |
-| 🧠 | **IBM Machine Learning Professional** | [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8) |
-| 🗄️ | **Meta Database Engineer** | [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ) |
-| 📊 | **Microsoft Power BI Data Analyst** | [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ) |
-
----
-
-## 📈 &nbsp; **GitHub Analytics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555555" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555555" height="150" alt="languages" />
-</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakeel-data&color=0A66C2&style=flat)
+
 </div>
