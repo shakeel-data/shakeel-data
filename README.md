@@ -123,11 +123,11 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### MBA in Business Data Analytics @ University of Madras (Distance)
 
-*Chennai, India | Expected Graduation: Jun 2026*
+*Chennai, India (Expected Graduation: Jun 2026)*
 
 ### BCom in Corporate Secretaryship @ The New College
 
-*Chennai, India | Completed: May 2024*
+*Chennai, India (Completed: May 2024)*
  
 
 ## ⭐ Other Experience
