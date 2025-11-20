@@ -35,7 +35,6 @@
 
 Data & Analytical professional thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
 
----
 
 ## ⚙️ Skills
 
@@ -58,7 +57,6 @@ Data & Analytical professional thrive at the intersection of data, business, and
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
 </p>
 
----
 
 ## 📊 Top Data & AI Projects
 
@@ -69,8 +67,6 @@ Data & Analytical professional thrive at the intersection of data, business, and
 | 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `Python`, `BigQuery`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
 | 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
 | 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `Python`, `SQL Server`, `Random Forest`, `Power BI`                                                   
-
----
 
 ## 💼 Professional Experience
 
@@ -89,7 +85,6 @@ Data & Analytical professional thrive at the intersection of data, business, and
 - Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
 - Gained exposure to import/export paperwork, regulatory compliance, and customs/security processes affecting **50+** shipments weekly.
 
----
 
 ## 📜 Certifications  
 <p align="left">
@@ -120,7 +115,6 @@ Data & Analytical professional thrive at the intersection of data, business, and
   </a>
 </p> 
 
----
 
 ## 🎓 Education
 
@@ -132,15 +126,13 @@ University of Madras (Distance), Chennai, India | Expected Graduation: Jun 2026
 
 The New College, Chennai, India | Completed: May 2024
  
----
 
 ## ⭐ Other Experience
 
 ### Volunteer @ Agaram Foundation | Chennai, India (Since 2022)
 ### Personal Tutor for School & College Students @ OneMaster Learning Hub | Chennai, India (Since 2021)
 
- 
----
+
 ## 📈 GitHub Activity
 
 <p align="center">
