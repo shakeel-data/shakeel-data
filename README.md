@@ -120,14 +120,19 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 <p align="left">
   <a href="https://certx.in/certificate/08982a60-ee18-43e4-9061-8f0dc40fd449297718" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.linkedin.com/company/101974534/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqZx5dXHgR4aV3aHsiVXEWQ%3D%3D" alt="Microsoft" width="28" style="vertical-align:middle;"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEnGUaRe8JbvQ/company-logo_100_100/company-logo_100_100/0/1714040112134/ai_for_techies_logo?e=1765411200&v=beta&t=WzBeEAwiIdMLrrk8gzbElG-j9xqWw9v3kcbVOkct49o" alt="AI for techies" width="28" style="vertical-align:middle;"/>
     <span><b> Python using AI Certificate</b></span>
   </a>
 </p> 
 
+<p align="left">
+  <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEBNy7p5-5m-Q/profile-treasury-document-cover-images_480/B4EZUB_BrnHUA4-/0/1739495058380?e=1764270000&v=beta&t=vm1P3HX-xJH523Fn5FzvK9CTKmpbxRB57GKPfaX62L4" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGYQB0W2zliFg/company-logo_100_100/company-logo_100_100/0/1631328732272?e=1765411200&v=beta&t=8_r9nOP8LuakL4RpbuQ-YOtxKDUB3X4VpczttdPhIBU" alt="ExcelGoodies" width="28" style="vertical-align:middle;"/>
+    <span><b> MIS Reporting & Business Modeling Specialist Using MS-Excel Certificate</b></span>
+  </a>
+</p>  
 
 ## 🎓 Education
-
 ### MBA in Business Data Analytics @ University of Madras (Distance)
 
 *Chennai, India (Expected Graduation: Jun 2026)*
