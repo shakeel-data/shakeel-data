@@ -71,6 +71,9 @@ Data & Analytical professional thrive at the intersection of data, business, and
 ## 💼 Professional Experience
 
 ### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-B45309?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Freelance-FACC15?style=flat&logoColor=000000" />
+<img src="https://img.shields.io/badge/Freelance-FDE047?style=flat&logoColor=000000" />
+
 *Chennai, India (Mar 2025 – Jun 2025)*
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
@@ -139,6 +142,10 @@ Data & Analytical professional thrive at the intersection of data, business, and
 - Supporting content delivery, material distribution, and progress tracking that contributed to a **15–20%** improvement in readiness for exams.
   
 ### Personal Tutor @ OneMaster Learning Hub <img src="https://img.shields.io/badge/Tutor-F97316?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Tutor-22C55E?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Tutor-15803D?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Tutor-86EFAC?style=flat&logoColor=000000" />
+
 *Chennai, India (Since 2021)*
 - Tutored **20+** school and college students in Math, Computer Science, English, and Commerce with a personalized **1:1** approach.
 - Created simple lesson plans and weekly tests that improved student understanding and exam performance by **20–40%**.
