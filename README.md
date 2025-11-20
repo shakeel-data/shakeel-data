@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
   </h1> 
   <p align="center"> 
-    A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
+    I work where data, analytics and AI come together to solve real problems
   </p> 
   <p align="center">
     <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
@@ -33,8 +33,9 @@
 
 ## 🚀 About Me
 
-Data & Analytical professional thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
+I’m a data and analytics professional who enjoys working where data, business and technology come together. I like building hands-on, project-based solutions that make real problems easier to understand and solve. My work is focused on helping people become more confident with data and more comfortable using analytics in everyday decisions.
 
+I’m always learning and exploring new tools, especially in AI and emerging technologies. I enjoy breaking complex ideas into simple steps and creating solutions that feel practical and scalable. My goal is to keep improving, stay curious and build things that genuinely help people and teams make better decisions.
 
 ## ⚙️ Skills
 
