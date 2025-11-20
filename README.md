@@ -62,11 +62,11 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 | Project                                                                            | Key Technologies                                                                                                 |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| ⚡ **[GenAI Data Science Agent with GPU Acceleration](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Python`, `NVIDIA NeMo`, `RAPIDS cuDF/cuML`, `TensorFlow`, `PyTorch`, `XGBoost`, `LightGBM`, `CatBoost`, `K-Means`, `SHAP`, `LIME`, `Streamlit`
-| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Python`, `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`   
-| 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `Python`, `BigQuery`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
-| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
-| 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `Python`, `SQL Server`, `Random Forest`, `Power BI`                                                   
+| **[GenAI Data Science Agent with GPU Acceleration](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Python`, `NVIDIA NeMo`, `RAPIDS cuDF/cuML`, `TensorFlow`, `PyTorch`, `XGBoost`, `LightGBM`, `CatBoost`, `K-Means`, `SHAP`, `LIME`, `Streamlit`
+| **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Python`, `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`   
+| **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `Python`, `BigQuery`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
+| **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
+| **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `Python`, `SQL Server`, `Random Forest`, `Power BI`                                                   
 
 ## 💼 Professional Experience
 
