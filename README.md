@@ -70,7 +70,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ## 💼 Professional Experience
 
-### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-FBBF24?style=flat&logoColor=white" />
+### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-B45309?style=flat&logoColor=white" />
 *Chennai, India (Mar 2025 – Jun 2025)*
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
