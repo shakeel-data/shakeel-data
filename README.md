@@ -1,39 +1,151 @@
-<div align="center"> <!-- Animated header with gradient wave effect --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shakeel%20Ahamed&fontSize=40&animation=fadeIn" alt="Header"/> <!-- Typing animation for role description --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=0077B5&background=transparent&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Business+Analyst;AI%2FML+Engineer;Transforming+Data+into+Actionable+Insights" alt="Typing"/> </p> <!-- Main title with animated wave emoji --> <h1 align="center"> Hi there, I'm Shakeel Ahamed <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35px" alt="Wave"/> </h1> <!-- Social badges with flat-square style --> <p align="center"> <a href="https://www.linkedin.com/in/shakeel-data" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shakeelahamed6618@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://shakeel-data-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio"/> </a> </p> <!-- Profile views counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views"/> </p> </div>
-🚀 About Me
-Data & Analytical professional thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate.
+<div align="center"> 
+  <h1 align="center">Hi there, I'm Shakeel Ahamed 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  </h1> 
+  <p align="center"> 
+    A Data Scientist and Business Analyst passionate about transforming data into actionable insights and scalable solutions.
+  </p> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shakeel-data" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:shakeelahamed6618@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  <a href="https://shakeel-data-portfolio.netlify.app/" target="_blank">
+  <img src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" 
+       alt="Portfolio" 
+       width="40" 
+       height=30"" 
+       style="border-radius:50%; object-fit:cover; display:inline-block;"/>
+</a>
 
-⚙️ Technical Skills
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/> <img src="https://img.shields.io/badge/RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="RAPIDS"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> </p>
-📊 Featured Projects
-Project	Technologies
-⚡ GenAI Data Science Agent	Python, NVIDIA NeMo, RAPIDS, TensorFlow, PyTorch, Streamlit
-💬 YouTube Sentiment Analysis	Python, Gemini API, TensorFlow, Hugging Face
-📦 Amazon Sales Forecasting	Python, BigQuery, LightGBM, Prophet
-🛢️ AWS Data Streaming Pipeline	Amazon RDS, S3, MSK, Kafka, Debezium
-📉 Customer Churn Prediction Dashboard	Python, SQL Server, Random Forest, Power BI
-💼 Professional Experience
-<details> <summary><strong>Power BI Trainer (Freelance)</strong> @ DBVTMF | Chennai (Mar–Jun 2025)</summary>
-Trained 50+ students, boosting dashboard creation speed by 40%
+  </p>
 
-Achieved 97% satisfaction and 100% completion rate
+  <!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakeel-data&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>
 
-Integrated AI-powered analytics tools, boosting awareness by 80%
+</div>
 
-</details> <details> <summary><strong>AR Process Analyst</strong> @ Omega Healthcare | Chennai (Sep 2024–Mar 2025)</summary>
-Reduced errors by 15% and improved authorization turnaround by 20%
 
-Maintained 100% data integrity, enhancing reporting accuracy by 25%
 
-</details> <details> <summary><strong>Academic Internship</strong> @ Chennai Port Authority | Chennai (Jan–Feb 2024)</summary>
-Observed port operations for 100+ daily shipments
+## 🚀 About Me
 
-Supported financial documentation for 3 key port units
+Data & Analytical professional thrive at the intersection of data, business, and technology. My focus is on building hands-on, project-based solutions that not only solve complex problems but also empower others to become more data-literate. I am driven by a passion for continuous learning and a commitment to leveraging AI and emerging technologies to drive innovation and impactful decision-making.
 
-Gained exposure to regulatory compliance affecting 50+ shipments weekly
 
-</details>
-📜 Certifications
-<p align="left"> <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Essentials"/> <img src="https://img.shields.io/badge/IBM%20Machine%20Learning-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Machine Learning"/> <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Power BI"/> </p>
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Top Languages" width="49%"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/> </p>
-<p align="center"> <i>Profile last updated: November 2025</i> </p>
+## ⚙️ Skills
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python"/> 
+  <img src="https://img.shields.io/badge/RAPIDS-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RAPIDS"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> 
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> 
+  <img src="https://img.shields.io/badge/Prophet-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> 
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
+</p>
+
+
+## 📊 Top Data & AI Projects
+
+| Project                                                                            | Key Technologies                                                                                                 |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| ⚡ **[GenAI Data Science Agent with GPU Acceleration](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Python`, `NVIDIA NeMo`, `RAPIDS cuDF/cuML`, `TensorFlow`, `PyTorch`, `XGBoost`, `LightGBM`, `CatBoost`, `K-Means`, `SHAP`, `LIME`, `Streamlit`
+| 💬 **[YouTube Comment Sentiment Analysis](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Python`, `Gemini API`, `TensorFlow`, `YouTube Data v3 API`, `Hugging Face Transformers`   
+| 📦 **[Amazon Sales Forecasting](https://github.com/shakeel-data/amazon-sales-forecasting-python-bigquery-ml)** | `Python`, `BigQuery`, `LightGBM`, `Prophet`, `Linear Regression`, `KMeans`
+| 🛢️ **[AWS Data Streaming Pipeline](https://github.com/shakeel-data/AWS-data-streaming-pipeline)**        | `Amazon RDS`, `S3`, `MSK`, `Apache Kafka`, `Debezium`, `EC2`                                  
+| 📉 **[Customer Churn Prediction Dashboard](https://github.com/shakeel-data/churn-prediction-dashboard)**          | `Python`, `SQL Server`, `Random Forest`, `Power BI`                                                   
+
+## 💼 Professional Experience
+
+### Power BI Trainer (Freelance) @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF) | Chennai, India (Mar 2025 – Jun 2025)
+- Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
+- Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
+- Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
+
+### AR Process Analyst (Full-time) @ Omega Healthcare | Chennai, India (Sep 2024 – Mar 2025)
+- Verified insurance eligibility reducing errors by **15%** and improving process efficiency
+- Enhanced authorization turnaround time by **20%** through streamlined coordination
+- Maintained **100%** data integrity, enhancing reporting accuracy by **25%.**
+
+### Academic Internship @ Chennai Port Authority | Chennai, India (Jan 2024 – Feb 2024)
+- Observed port operations and cargo workflows, understanding end-to-end logistics for **100+** daily shipments.
+- Learned departmental functions and accounting practices, supporting financial documentation for **3** key port units.
+- Gained exposure to import/export paperwork, regulatory compliance, and customs/security processes affecting **50+** shipments weekly.
+
+
+## 📜 Certifications  
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
+     <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="30" style="vertical-align:middle;"/>
+    <span><b> Google AI Essentials Certificate</b></span>
+  </a>
+</p>  
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="37" style="vertical-align:middle;"/>
+    <span><b> IBM Machine Learning Professional Certificate</b></span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="32" style="vertical-align:middle;"/>
+    <span><b> Meta Database Engineer Professional Certificate</b></span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28" style="vertical-align:middle;"/>
+    <span><b> Microsoft Power BI Data Analyst Professional Certificate</b></span>
+  </a>
+</p> 
+
+
+## 🎓 Education
+
+### MBA in Business Data Analytics
+
+University of Madras (Distance), Chennai, India | Expected Graduation: Jun 2026
+
+### BCom in Corporate Secretaryship
+
+The New College, Chennai, India | Completed: May 2024
+ 
+
+## ⭐ Other Experience
+
+### Volunteer @ Agaram Foundation | Chennai, India (Since 2022)
+- Mentoring and guiding **50+** underprivileged students through academic support, helping boost learning participation by **30%**.
+- Coordinating **10+** education programs and workshops, improving student engagement and smooth execution of foundation activities.
+- Supporting content delivery, material distribution, and progress tracking that contributed to a **15–20%** improvement in readiness for exams.
+  
+### Personal Tutor for School & College Students @ OneMaster Learning Hub | Chennai, India (Since 2021)
+- Tutored **20+** school and college students in Math, Computer Science, English, and Commerce with a personalized **1:1** approach.
+- Created simple lesson plans and weekly tests that improved student understanding and exam performance by **20–40%**.
+- Helped learners build confidence, discipline, and clarity in career paths, with **90%+** students reporting strong academic progress.
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakeel-data&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-data&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakeel-data&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</p>
