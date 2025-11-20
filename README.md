@@ -72,7 +72,9 @@ Data & Analytical professional thrive at the intersection of data, business, and
 
 ### Power BI Trainer (Freelance) @ Don Bosco Valikhatti Tech Mahindra Foundation Smart-Broadway (DBVTMF)
 *Chennai, India (Mar 2025 – Jun 2025)*
-### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-111827?style=flat&labelColor=000000&color=111827" />
+### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-000000?style=flat&logoColor=white" />
+### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-1e1e1e?style=for-the-badge&logoColor=white" />
+### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-0F172A?style=flat&color=0F172A" />
 
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
