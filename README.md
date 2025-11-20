@@ -76,7 +76,7 @@ Data & Analytical professional thrive at the intersection of data, business, and
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
 
-### AR Process Analyst (Full-time) @ Omega Healthcare
+### AR Process Analyst @ Omega Healthcare <img src="https://img.shields.io/badge/Full-time-FF0000?style=flat&logoColor=white" />
 *Chennai, India (Sep 2024 – Mar 2025)*
 - Verified insurance eligibility reducing errors by **15%** and improving process efficiency
 - Enhanced authorization turnaround time by **20%** through streamlined coordination
