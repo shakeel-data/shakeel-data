@@ -54,8 +54,8 @@ I’m always learning and exploring new tools, especially in AI and emerging tec
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> 
   <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> 
-  <img src="https://img.shields.io/badge/RAPIDS-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RAPIDS"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
+  <img src="https://img.shields.io/badge/RAPIDS-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RAPIDS"/>
 </p>
 
 
