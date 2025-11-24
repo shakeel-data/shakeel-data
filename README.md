@@ -128,10 +128,10 @@ Chennai, India *(Jan 2024 – Feb 2024)*
 
 ## 🎓 Education
 ### MBA in Business Data Analytics @ University of Madras (Distance)
-*Chennai, India (Expected Graduation: Jun 2026)*
+Chennai, India *(Expected Graduation: Jun 2026)*
 
 ### BCom in Corporate Secretaryship @ The New College
-*Chennai, India (Completed: May 2024)*
+Chennai, India *(Completed: May 2024)*
  
 
 ## ⭐ Other Experience
