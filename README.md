@@ -72,7 +72,7 @@ I’m always learning and exploring new tools, especially in AI and emerging tec
 ## 💼 Professional Experience
 
 ### Power BI Trainer @ DBVTMF Smart-Broadway <img src="https://img.shields.io/badge/Freelance-FACC15?style=flat&logoColor=000000" />
-*Chennai, India (Mar 2025 – Jun 2025)*
+Chennai, India *(Mar 2025 – Jun 2025)*
 - Delivered hands-on Power BI training to **50+** students, boosting dashboard creation speed by **40%.**
 - Designed project-based curriculum achieving **97%** satisfaction and **100%** completion rate.
 - Integrated AI-powered analytics tools, boosting awareness of modern data technologies by **80%**.
