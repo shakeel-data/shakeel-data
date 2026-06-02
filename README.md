@@ -96,38 +96,38 @@ My primary focus is eliminating friction in business environments—whether that
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google" width="22" style="vertical-align:middle; margin-right: 8px;"/>
-    <span><b>Google AI Essentials Professional Certificate</b> – Coursera</span>
+     <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="30" style="vertical-align:middle;"/>
+    <span><b> Google AI Essentials Certificate</b></span>
   </a>
-</p>
+</p>  
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/ibm/052F74" alt="IBM" width="24" style="vertical-align:middle; margin-right: 8px;"/>
-    <span><b>IBM Machine Learning Professional Certificate</b> – Coursera</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="37" style="vertical-align:middle;"/>
+    <span><b> IBM Machine Learning Professional Certificate</b></span>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="22" style="vertical-align:middle; margin-right: 8px;"/>
-    <span><b>Meta Database Engineer Professional Certificate</b> – Coursera</span>
+    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="32" style="vertical-align:middle;"/>
+    <span><b> Meta Database Engineer Professional Certificate</b></span>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" rel="noopener noreferrer">
-    <img src="[https://cdn.simpleicons.org/microsoft/F25022](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/960px-Microsoft_logo.svg.png?_=20210729021049)" alt="Microsoft" width="20" style="vertical-align:middle; margin-right: 8px;"/>
-    <span><b>Microsoft Power BI Data Analyst Professional Certificate</b> – Coursera</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="28" style="vertical-align:middle;"/>
+    <span><b> Microsoft Power BI Data Analyst Professional Certificate</b></span>
   </a>
-</p>
+</p> 
 
 <p align="left">
   <a href="https://certx.in/certificate/08982a60-ee18-43e4-9061-8f0dc40fd449297718" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excelgoodies" width="20" style="vertical-align:middle; margin-right: 8px;"/>
-    <span><b>MIS Reporting & Business Modeling Specialist (Advanced Excel)</b> – Excelgoodies</span>
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEnGUaRe8JbvQ/company-logo_100_100/company-logo_100_100/0/1714040112134/ai_for_techies_logo?e=1765411200&v=beta&t=WzBeEAwiIdMLrrk8gzbElG-j9xqWw9v3kcbVOkct49o" alt="AI for techies" width="28" style="vertical-align:middle;"/>
+    <span><b> Python using AI Certificate</b></span>
   </a>
-</p>
+</p> 
 
 ---
 
