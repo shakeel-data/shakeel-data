@@ -65,15 +65,15 @@ My primary focus is eliminating friction in business environments—whether that
 ## 💼 Professional Experience
 
 ### Independent Digital Solutions Developer & Contractor
-*Freelance / Technical Contract Execution | Mar 2025 – Present*[cite: 5]
+*Freelance / Technical Contract Execution | Mar 2025 – Present*
 - **Full-Stack Application Delivery**: Architect and deploy scalable commercial web applications using Next.js and Tailwind CSS integrated with robust Supabase backend databases for local enterprise clients.
 - **Workflow Automation & Systems Integration**: Engineered real-time communication modules connecting frontend interfaces directly to the automated Meta/WhatsApp Business API notification triggers, increasing user engagement and operational tracking capabilities.
-- **Advanced Analytics & AI Enablement**: Built customized data validation models in Python and configured multi-format reporting pipelines leveraging AI-augmented productivity solutions to increase cumulative analytics efficiency metrics by **40%** for professional cohorts[cite: 5].
+- **Advanced Analytics & AI Enablement**: Built customized data validation models in Python and configured multi-format reporting pipelines leveraging AI-augmented productivity solutions to increase cumulative analytics efficiency metrics by **40%** for professional cohorts.
 
 ### AR Process Executive
-*Omega Healthcare Management Services | Sep 2024 – Mar 2025*[cite: 5]
-- **Operational Data Integrity**: Investigated and resolved high-volume transactional account data discrepancies across internal custom CRM portals, maintaining strict **100% data compliance** and error-free insurance coverage verification boundaries[cite: 5].
-- **Systemic Issue Resolution**: Structured daily operational verification logs inside Microsoft Excel and built data-cleansing templates, reducing internal pipeline reporting inconsistencies by **25%** via rigorous data validation routines and critical troubleshooting strategies[cite: 5].
+*Omega Healthcare Management Services | Sep 2024 – Mar 2025*
+- **Operational Data Integrity**: Investigated and resolved high-volume transactional account data discrepancies across internal custom CRM portals, maintaining strict **100% data compliance** and error-free insurance coverage verification boundaries.
+- **Systemic Issue Resolution**: Structured daily operational verification logs inside Microsoft Excel and built data-cleansing templates, reducing internal pipeline reporting inconsistencies by **25%** via rigorous data validation routines and critical troubleshooting strategies.
 
 ### Corporate Logistics Analyst Intern
 *Chennai Port Authority | Academic Internship | Jan 2024 – Feb 2024*
@@ -86,19 +86,19 @@ My primary focus is eliminating friction in business environments—whether that
 
 | Project | Core Stack Technologies |
 | :--- | :--- |
-| **[AI-Powered Sentiment Analysis on Google Product Launch](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Python`, `TensorFlow`, `Gemini API`, `YouTube API`, `Natural Language Processing`[cite: 5] |
-| **[Customer Segmentation & Market Clustering Framework](https://github.com/shakeel-data/churn-prediction-dashboard)** | `Python`, `Scikit-learn`, `KMeans`, `Principal Component Analysis (PCA)`, `Jupyter Notebook`[cite: 5] |
-| **[Sales Insights & Business Performance Data Pipeline](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Microsoft Excel (Advanced)`, `Power Query Data Transformation`, `KPI Metric Dashboards`[cite: 5] |
+| **[AI-Powered Sentiment Analysis on Google Product Launch](https://github.com/shakeel-data/youtube-sentiment-analysis)** | `Python`, `TensorFlow`, `Gemini API`, `YouTube API`, `Natural Language Processing` |
+| **[Customer Segmentation & Market Clustering Framework](https://github.com/shakeel-data/churn-prediction-dashboard)** | `Python`, `Scikit-learn`, `KMeans`, `Principal Component Analysis (PCA)`, `Jupyter Notebook` |
+| **[Sales Insights & Business Performance Data Pipeline](https://github.com/shakeel-data/genai-autonomous-data-agent)** | `Microsoft Excel (Advanced)`, `Power Query Data Transformation`, `KPI Metric Dashboards` |
 
 ---
 
 ## 📜 Verified Professional Certifications
 
 *   🏆 **Google AI Essentials Professional Certificate** – Coursera
-*   🏆 **IBM Machine Learning Professional Certificate** – Coursera[cite: 5]
-*   🏆 **Meta Database Engineer Professional Certificate** – Coursera[cite: 5]
-*   🏆 **Microsoft Power BI Data Analyst Professional Certificate** – Coursera[cite: 5]
-*   🏆 **MIS Reporting & Business Modeling Specialist (Advanced Excel)** – Excelgoodies[cite: 5]
+*   🏆 **IBM Machine Learning Professional Certificate** – Coursera
+*   🏆 **Meta Database Engineer Professional Certificate** – Coursera
+*   🏆 **Microsoft Power BI Data Analyst Professional Certificate** – Coursera
+*   🏆 **MIS Reporting & Business Modeling Specialist (Advanced Excel)** – Excelgoodies
 
 ---
 
