@@ -94,11 +94,40 @@ My primary focus is eliminating friction in business environments—whether that
 
 ## 📜 Verified Professional Certifications
 
-*   🏆 **Google AI Essentials Professional Certificate** – Coursera
-*   🏆 **IBM Machine Learning Professional Certificate** – Coursera
-*   🏆 **Meta Database Engineer Professional Certificate** – Coursera
-*   🏆 **Microsoft Power BI Data Analyst Professional Certificate** – Coursera
-*   🏆 **MIS Reporting & Business Modeling Specialist (Advanced Excel)** – Excelgoodies
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google" width="22" style="vertical-align:middle; margin-right: 8px;"/>
+    <span><b>Google AI Essentials Professional Certificate</b> – Coursera</span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WT57ED6RK0T8" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/ibm/052F74" alt="IBM" width="24" style="vertical-align:middle; margin-right: 8px;"/>
+    <span><b>IBM Machine Learning Professional Certificate</b> – Coursera</span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/90F7XBIW9DHJ" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/meta/0081FB" alt="Meta" width="22" style="vertical-align:middle; margin-right: 8px;"/>
+    <span><b>Meta Database Engineer Professional Certificate</b> – Coursera</span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoft/F25022" alt="Microsoft" width="20" style="vertical-align:middle; margin-right: 8px;"/>
+    <span><b>Microsoft Power BI Data Analyst Professional Certificate</b> – Coursera</span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://certx.in/certificate/08982a60-ee18-43e4-9061-8f0dc40fd449297718" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excelgoodies" width="20" style="vertical-align:middle; margin-right: 8px;"/>
+    <span><b>MIS Reporting & Business Modeling Specialist (Advanced Excel)</b> – Excelgoodies</span>
+  </a>
+</p>
 
 ---
 
