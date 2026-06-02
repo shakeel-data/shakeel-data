@@ -117,7 +117,7 @@ My primary focus is eliminating friction in business environments—whether that
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R6YAPT8WAUZZ" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoft/F25022" alt="Microsoft" width="20" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="[https://cdn.simpleicons.org/microsoft/F25022](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/960px-Microsoft_logo.svg.png?_=20210729021049)" alt="Microsoft" width="20" style="vertical-align:middle; margin-right: 8px;"/>
     <span><b>Microsoft Power BI Data Analyst Professional Certificate</b> – Coursera</span>
   </a>
 </p>
