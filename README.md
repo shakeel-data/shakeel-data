@@ -124,7 +124,7 @@ My primary focus is eliminating friction in business environments—whether that
 
 <p align="left">
   <a href="https://certx.in/certificate/08982a60-ee18-43e4-9061-8f0dc40fd449297718" target="_blank" rel="noopener noreferrer">
-    <img src="[https://media.licdn.com/dms/image/v2/D4D0BAQEnGUaRe8JbvQ/company-logo_100_100/company-logo_100_100/0/1714040112134/ai_for_techies_logo?e=1765411200&v=beta&t=WzBeEAwiIdMLrrk8gzbElG-j9xqWw9v3kcbVOkct49o](https://media.licdn.com/dms/image/v2/D4D0BAQEnGUaRe8JbvQ/company-logo_200_200/company-logo_200_200/0/1714040112134/ai_for_techies_logo?e=2147483647&v=beta&t=a5Pdd76kw2c-QAL4JAB5vouA6hz9NYgtsdqB7OpdFag)" alt="AI for techies" width="28" style="vertical-align:middle;"/>
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/6621045af6a0863f5cb40752/0x0.png" alt="AI for techies" width="28" style="vertical-align:middle;"/>
     <span><b> Python using AI Certificate</b></span>
   </a>
 </p> 
