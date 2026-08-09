@@ -65,7 +65,7 @@ My primary focus is eliminating friction in business environments—whether that
 ## 💼 Professional Experience
 
 ### Independent Digital Solutions Developer & Contractor
-*Freelance / Technical Contract Execution | Mar 2025 – Present*
+*Freelance / Technical Contract Execution | Sep 2025 – Present*
 - **Full-Stack Application Delivery**: Architect and deploy scalable commercial web applications using Next.js and Tailwind CSS integrated with robust Supabase backend databases for local enterprise clients.
 - **Workflow Automation & Systems Integration**: Engineered real-time communication modules connecting frontend interfaces directly to the automated Meta/WhatsApp Business API notification triggers, increasing user engagement and operational tracking capabilities.
 - **Advanced Analytics & AI Enablement**: Built customized data validation models in Python and configured multi-format reporting pipelines leveraging AI-augmented productivity solutions to increase cumulative analytics efficiency metrics by **40%** for professional cohorts.
