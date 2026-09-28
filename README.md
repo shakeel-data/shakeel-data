@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://shakeelahamedk.vercel.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/ce84d422-9a09-44f3-ac3a-1e532f2207fe" alt="Portfolio"/>
+      <img width="1224" height="1224" alt="icon" src="https://github.com/user-attachments/assets/f4c5a124-dc75-4663-b112-215e4e7029bd" alt="Portfolio"/>
     </a>
   </p>
 
