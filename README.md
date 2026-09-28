@@ -12,8 +12,8 @@
     <a href="mailto:shakeelahamed6618@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://shakeel-data-portfolio.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <a href="https://shakeelahamedk.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/ce84d422-9a09-44f3-ac3a-1e532f2207fe" alt="Portfolio"/>
     </a>
   </p>
 
