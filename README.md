@@ -95,7 +95,7 @@ My primary focus is eliminating friction in business environments—whether that
 ## 📜 Verified Professional Certifications
 
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/verify/1D59QUORGDQY" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/GZKZ5OE8IGCO" target="_blank" rel="noopener noreferrer">
      <img src= "https://github.com/user-attachments/assets/610e4f07-edbb-4a9c-be6b-faa912bae91c" alt="Google" width="30" style="vertical-align:middle;"/>
     <span><b> Google AI Professional Certificate</b></span>
   </a>
